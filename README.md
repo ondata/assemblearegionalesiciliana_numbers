@@ -22,10 +22,8 @@ Abbiamo creato uno [script](./assembleaSicilianaNumbers.sh) in BASH, che estrae 
 
 ## Note
 
-In questa prima versione, ci siamo dedicati al lavoro "sporco": raccogliere tutti i **numeri** di base (mancano ad esempio i dati anagrafici di gruppi e deputati).
-E manca ancora una descrizione dello schema dati.
-
 Tutti i CSV sono in `UTF-8` e hanno la `,` come separatore.
+<br>Manca ancora una descrizione dello schema dati.
 
 È uno script basato su:
 
