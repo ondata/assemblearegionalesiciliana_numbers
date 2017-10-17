@@ -1,8 +1,8 @@
 [
   [
     {
-      "idGruppo": 224,
       "idDeputato": 16,
+      "idGruppo": 224,
       "DisegnidiLegge": "2",
       "InterrogazioniParlamentari": "0",
       "InterpellanzeParlamentari": "0",
@@ -12,8 +12,8 @@
   ],
   [
     {
-      "idGruppo": 223,
       "idDeputato": 28,
+      "idGruppo": 223,
       "DisegnidiLegge": "7",
       "InterrogazioniParlamentari": "14",
       "InterpellanzeParlamentari": "1",
@@ -23,8 +23,8 @@
   ],
   [
     {
-      "idGruppo": 196,
       "idDeputato": 32,
+      "idGruppo": 196,
       "DisegnidiLegge": "11",
       "InterrogazioniParlamentari": "13",
       "InterpellanzeParlamentari": "1",
@@ -34,8 +34,8 @@
   ],
   [
     {
-      "idGruppo": 220,
       "idDeputato": 45,
+      "idGruppo": 220,
       "DisegnidiLegge": "6",
       "InterrogazioniParlamentari": "14",
       "InterpellanzeParlamentari": "6",
@@ -45,8 +45,8 @@
   ],
   [
     {
-      "idGruppo": 200,
       "idDeputato": 473,
+      "idGruppo": 200,
       "DisegnidiLegge": "5",
       "InterrogazioniParlamentari": "29",
       "InterpellanzeParlamentari": "0",
@@ -56,8 +56,8 @@
   ],
   [
     {
-      "idGruppo": 196,
       "idDeputato": 692,
+      "idGruppo": 196,
       "DisegnidiLegge": "14",
       "InterrogazioniParlamentari": "5",
       "InterpellanzeParlamentari": "1",
@@ -67,8 +67,8 @@
   ],
   [
     {
-      "idGruppo": 196,
       "idDeputato": 695,
+      "idGruppo": 196,
       "DisegnidiLegge": "2",
       "InterrogazioniParlamentari": "10",
       "InterpellanzeParlamentari": "0",
@@ -78,8 +78,8 @@
   ],
   [
     {
-      "idGruppo": 213,
       "idDeputato": 701,
+      "idGruppo": 213,
       "DisegnidiLegge": "7",
       "InterrogazioniParlamentari": "14",
       "InterpellanzeParlamentari": "0",
@@ -89,8 +89,8 @@
   ],
   [
     {
-      "idGruppo": 225,
       "idDeputato": 702,
+      "idGruppo": 225,
       "DisegnidiLegge": "22",
       "InterrogazioniParlamentari": "56",
       "InterpellanzeParlamentari": "1",
@@ -100,8 +100,8 @@
   ],
   [
     {
-      "idGruppo": 201,
       "idDeputato": 710,
+      "idGruppo": 201,
       "DisegnidiLegge": "0",
       "InterrogazioniParlamentari": "3",
       "InterpellanzeParlamentari": "0",
@@ -111,8 +111,8 @@
   ],
   [
     {
-      "idGruppo": 196,
       "idDeputato": 713,
+      "idGruppo": 196,
       "DisegnidiLegge": "19",
       "InterrogazioniParlamentari": "0",
       "InterpellanzeParlamentari": "0",
@@ -122,8 +122,8 @@
   ],
   [
     {
-      "idGruppo": 196,
       "idDeputato": 720,
+      "idGruppo": 196,
       "DisegnidiLegge": "15",
       "InterrogazioniParlamentari": "46",
       "InterpellanzeParlamentari": "2",
@@ -133,8 +133,8 @@
   ],
   [
     {
-      "idGruppo": 208,
       "idDeputato": 725,
+      "idGruppo": 208,
       "DisegnidiLegge": "8",
       "InterrogazioniParlamentari": "12",
       "InterpellanzeParlamentari": "0",
@@ -144,8 +144,8 @@
   ],
   [
     {
-      "idGruppo": 208,
       "idDeputato": 727,
+      "idGruppo": 208,
       "DisegnidiLegge": "42",
       "InterrogazioniParlamentari": "44",
       "InterpellanzeParlamentari": "8",
@@ -155,8 +155,8 @@
   ],
   [
     {
-      "idGruppo": 196,
       "idDeputato": 729,
+      "idGruppo": 196,
       "DisegnidiLegge": "13",
       "InterrogazioniParlamentari": "46",
       "InterpellanzeParlamentari": "1",
@@ -166,8 +166,8 @@
   ],
   [
     {
-      "idGruppo": 196,
       "idDeputato": 73,
+      "idGruppo": 196,
       "DisegnidiLegge": "4",
       "InterrogazioniParlamentari": "4",
       "InterpellanzeParlamentari": "0",
@@ -177,8 +177,8 @@
   ],
   [
     {
-      "idGruppo": 216,
       "idDeputato": 742,
+      "idGruppo": 216,
       "DisegnidiLegge": "9",
       "InterrogazioniParlamentari": "24",
       "InterpellanzeParlamentari": "1",
@@ -188,8 +188,8 @@
   ],
   [
     {
-      "idGruppo": 221,
       "idDeputato": 752,
+      "idGruppo": 221,
       "DisegnidiLegge": "15",
       "InterrogazioniParlamentari": "2",
       "InterpellanzeParlamentari": "0",
@@ -199,8 +199,8 @@
   ],
   [
     {
-      "idGruppo": 208,
       "idDeputato": 753,
+      "idGruppo": 208,
       "DisegnidiLegge": "27",
       "InterrogazioniParlamentari": "177",
       "InterpellanzeParlamentari": "12",
@@ -210,8 +210,8 @@
   ],
   [
     {
-      "idGruppo": 208,
       "idDeputato": 755,
+      "idGruppo": 208,
       "DisegnidiLegge": "10",
       "InterrogazioniParlamentari": "29",
       "InterpellanzeParlamentari": "1",
@@ -221,8 +221,8 @@
   ],
   [
     {
-      "idGruppo": 200,
       "idDeputato": 757,
+      "idGruppo": 200,
       "DisegnidiLegge": "8",
       "InterrogazioniParlamentari": "23",
       "InterpellanzeParlamentari": "1",
@@ -232,8 +232,8 @@
   ],
   [
     {
-      "idGruppo": 224,
       "idDeputato": 758,
+      "idGruppo": 224,
       "DisegnidiLegge": "12",
       "InterrogazioniParlamentari": "56",
       "InterpellanzeParlamentari": "0",
@@ -243,8 +243,8 @@
   ],
   [
     {
-      "idGruppo": 200,
       "idDeputato": 760,
+      "idGruppo": 200,
       "DisegnidiLegge": "2",
       "InterrogazioniParlamentari": "71",
       "InterpellanzeParlamentari": "11",
@@ -254,8 +254,8 @@
   ],
   [
     {
-      "idGruppo": 206,
       "idDeputato": 761,
+      "idGruppo": 206,
       "DisegnidiLegge": "15",
       "InterrogazioniParlamentari": "18",
       "InterpellanzeParlamentari": "4",
@@ -265,8 +265,8 @@
   ],
   [
     {
-      "idGruppo": 196,
       "idDeputato": 764,
+      "idGruppo": 196,
       "DisegnidiLegge": "7",
       "InterrogazioniParlamentari": "4",
       "InterpellanzeParlamentari": "1",
@@ -276,8 +276,8 @@
   ],
   [
     {
-      "idGruppo": 196,
       "idDeputato": 767,
+      "idGruppo": 196,
       "DisegnidiLegge": "19",
       "InterrogazioniParlamentari": "10",
       "InterpellanzeParlamentari": "0",
@@ -287,8 +287,8 @@
   ],
   [
     {
-      "idGruppo": 223,
       "idDeputato": 771,
+      "idGruppo": 223,
       "DisegnidiLegge": "18",
       "InterrogazioniParlamentari": "44",
       "InterpellanzeParlamentari": "1",
@@ -298,8 +298,8 @@
   ],
   [
     {
-      "idGruppo": 225,
       "idDeputato": 775,
+      "idGruppo": 225,
       "DisegnidiLegge": "116",
       "InterrogazioniParlamentari": "1023",
       "InterpellanzeParlamentari": "2",
@@ -309,8 +309,8 @@
   ],
   [
     {
-      "idGruppo": 214,
       "idDeputato": 776,
+      "idGruppo": 214,
       "DisegnidiLegge": "3",
       "InterrogazioniParlamentari": "18",
       "InterpellanzeParlamentari": "1",
@@ -320,8 +320,8 @@
   ],
   [
     {
-      "idGruppo": 201,
       "idDeputato": 778,
+      "idGruppo": 201,
       "DisegnidiLegge": "21",
       "InterrogazioniParlamentari": "25",
       "InterpellanzeParlamentari": "11",
@@ -331,8 +331,8 @@
   ],
   [
     {
-      "idGruppo": 223,
       "idDeputato": 780,
+      "idGruppo": 223,
       "DisegnidiLegge": "3",
       "InterrogazioniParlamentari": "2",
       "InterpellanzeParlamentari": "0",
@@ -342,8 +342,8 @@
   ],
   [
     {
-      "idGruppo": 214,
       "idDeputato": 784,
+      "idGruppo": 214,
       "DisegnidiLegge": "4",
       "InterrogazioniParlamentari": "26",
       "InterpellanzeParlamentari": "0",
@@ -353,8 +353,8 @@
   ],
   [
     {
-      "idGruppo": 221,
       "idDeputato": 79,
+      "idGruppo": 221,
       "DisegnidiLegge": "5",
       "InterrogazioniParlamentari": "13",
       "InterpellanzeParlamentari": "0",
@@ -364,8 +364,8 @@
   ],
   [
     {
-      "idGruppo": 213,
       "idDeputato": 805,
+      "idGruppo": 213,
       "DisegnidiLegge": "5",
       "InterrogazioniParlamentari": "25",
       "InterpellanzeParlamentari": "9",
@@ -375,8 +375,8 @@
   ],
   [
     {
-      "idGruppo": 196,
       "idDeputato": 816,
+      "idGruppo": 196,
       "DisegnidiLegge": "7",
       "InterrogazioniParlamentari": "25",
       "InterpellanzeParlamentari": "3",
@@ -386,8 +386,8 @@
   ],
   [
     {
-      "idGruppo": 196,
       "idDeputato": 817,
+      "idGruppo": 196,
       "DisegnidiLegge": "8",
       "InterrogazioniParlamentari": "8",
       "InterpellanzeParlamentari": "0",
@@ -397,8 +397,8 @@
   ],
   [
     {
-      "idGruppo": 196,
       "idDeputato": 818,
+      "idGruppo": 196,
       "DisegnidiLegge": "6",
       "InterrogazioniParlamentari": "27",
       "InterpellanzeParlamentari": "0",
@@ -408,8 +408,8 @@
   ],
   [
     {
-      "idGruppo": 208,
       "idDeputato": 819,
+      "idGruppo": 208,
       "DisegnidiLegge": "9",
       "InterrogazioniParlamentari": "111",
       "InterpellanzeParlamentari": "0",
@@ -419,8 +419,8 @@
   ],
   [
     {
-      "idGruppo": 196,
       "idDeputato": 820,
+      "idGruppo": 196,
       "DisegnidiLegge": "17",
       "InterrogazioniParlamentari": "29",
       "InterpellanzeParlamentari": "4",
@@ -430,8 +430,8 @@
   ],
   [
     {
-      "idGruppo": 197,
       "idDeputato": 821,
+      "idGruppo": 197,
       "DisegnidiLegge": "25",
       "InterrogazioniParlamentari": "78",
       "InterpellanzeParlamentari": "15",
@@ -441,8 +441,8 @@
   ],
   [
     {
-      "idGruppo": 197,
       "idDeputato": 822,
+      "idGruppo": 197,
       "DisegnidiLegge": "5",
       "InterrogazioniParlamentari": "87",
       "InterpellanzeParlamentari": "23",
@@ -452,8 +452,8 @@
   ],
   [
     {
-      "idGruppo": 197,
       "idDeputato": 823,
+      "idGruppo": 197,
       "DisegnidiLegge": "12",
       "InterrogazioniParlamentari": "67",
       "InterpellanzeParlamentari": "35",
@@ -463,8 +463,8 @@
   ],
   [
     {
-      "idGruppo": 197,
       "idDeputato": 824,
+      "idGruppo": 197,
       "DisegnidiLegge": "6",
       "InterrogazioniParlamentari": "44",
       "InterpellanzeParlamentari": "3",
@@ -474,8 +474,8 @@
   ],
   [
     {
-      "idGruppo": 196,
       "idDeputato": 825,
+      "idGruppo": 196,
       "DisegnidiLegge": "9",
       "InterrogazioniParlamentari": "44",
       "InterpellanzeParlamentari": "3",
@@ -485,8 +485,8 @@
   ],
   [
     {
-      "idGruppo": 201,
       "idDeputato": 826,
+      "idGruppo": 201,
       "DisegnidiLegge": "2",
       "InterrogazioniParlamentari": "4",
       "InterpellanzeParlamentari": "1",
@@ -496,8 +496,8 @@
   ],
   [
     {
-      "idGruppo": 213,
       "idDeputato": 827,
+      "idGruppo": 213,
       "DisegnidiLegge": "7",
       "InterrogazioniParlamentari": "22",
       "InterpellanzeParlamentari": "0",
@@ -507,8 +507,8 @@
   ],
   [
     {
-      "idGruppo": 216,
       "idDeputato": 830,
+      "idGruppo": 216,
       "DisegnidiLegge": "6",
       "InterrogazioniParlamentari": "6",
       "InterpellanzeParlamentari": "2",
@@ -518,8 +518,8 @@
   ],
   [
     {
-      "idGruppo": 196,
       "idDeputato": 831,
+      "idGruppo": 196,
       "DisegnidiLegge": "6",
       "InterrogazioniParlamentari": "8",
       "InterpellanzeParlamentari": "0",
@@ -529,8 +529,8 @@
   ],
   [
     {
-      "idGruppo": 197,
       "idDeputato": 835,
+      "idGruppo": 197,
       "DisegnidiLegge": "9",
       "InterrogazioniParlamentari": "76",
       "InterpellanzeParlamentari": "19",
@@ -540,8 +540,8 @@
   ],
   [
     {
-      "idGruppo": 222,
       "idDeputato": 836,
+      "idGruppo": 222,
       "DisegnidiLegge": "18",
       "InterrogazioniParlamentari": "150",
       "InterpellanzeParlamentari": "1",
@@ -551,8 +551,8 @@
   ],
   [
     {
-      "idGruppo": 225,
       "idDeputato": 838,
+      "idGruppo": 225,
       "DisegnidiLegge": "15",
       "InterrogazioniParlamentari": "34",
       "InterpellanzeParlamentari": "0",
@@ -562,8 +562,8 @@
   ],
   [
     {
-      "idGruppo": 197,
       "idDeputato": 839,
+      "idGruppo": 197,
       "DisegnidiLegge": "11",
       "InterrogazioniParlamentari": "99",
       "InterpellanzeParlamentari": "48",
@@ -573,8 +573,8 @@
   ],
   [
     {
-      "idGruppo": 208,
       "idDeputato": 840,
+      "idGruppo": 208,
       "DisegnidiLegge": "11",
       "InterrogazioniParlamentari": "56",
       "InterpellanzeParlamentari": "1",
@@ -584,8 +584,8 @@
   ],
   [
     {
-      "idGruppo": 201,
       "idDeputato": 841,
+      "idGruppo": 201,
       "DisegnidiLegge": "8",
       "InterrogazioniParlamentari": "36",
       "InterpellanzeParlamentari": "11",
@@ -595,8 +595,8 @@
   ],
   [
     {
-      "idGruppo": 214,
       "idDeputato": 842,
+      "idGruppo": 214,
       "DisegnidiLegge": "11",
       "InterrogazioniParlamentari": "3",
       "InterpellanzeParlamentari": "0",
@@ -606,8 +606,8 @@
   ],
   [
     {
-      "idGruppo": 221,
       "idDeputato": 843,
+      "idGruppo": 221,
       "DisegnidiLegge": "2",
       "InterrogazioniParlamentari": "3",
       "InterpellanzeParlamentari": "1",
@@ -617,8 +617,8 @@
   ],
   [
     {
-      "idGruppo": 197,
       "idDeputato": 844,
+      "idGruppo": 197,
       "DisegnidiLegge": "8",
       "InterrogazioniParlamentari": "95",
       "InterpellanzeParlamentari": "15",
@@ -628,8 +628,8 @@
   ],
   [
     {
-      "idGruppo": 222,
       "idDeputato": 845,
+      "idGruppo": 222,
       "DisegnidiLegge": "8",
       "InterrogazioniParlamentari": "24",
       "InterpellanzeParlamentari": "0",
@@ -639,8 +639,8 @@
   ],
   [
     {
-      "idGruppo": 214,
       "idDeputato": 846,
+      "idGruppo": 214,
       "DisegnidiLegge": "26",
       "InterrogazioniParlamentari": "5",
       "InterpellanzeParlamentari": "2",
@@ -650,8 +650,8 @@
   ],
   [
     {
-      "idGruppo": 200,
       "idDeputato": 847,
+      "idGruppo": 200,
       "DisegnidiLegge": "31",
       "InterrogazioniParlamentari": "61",
       "InterpellanzeParlamentari": "16",
@@ -661,8 +661,8 @@
   ],
   [
     {
-      "idGruppo": 208,
       "idDeputato": 848,
+      "idGruppo": 208,
       "DisegnidiLegge": "7",
       "InterrogazioniParlamentari": "41",
       "InterpellanzeParlamentari": "1",
@@ -672,8 +672,8 @@
   ],
   [
     {
-      "idGruppo": 206,
       "idDeputato": 849,
+      "idGruppo": 206,
       "DisegnidiLegge": "12",
       "InterrogazioniParlamentari": "13",
       "InterpellanzeParlamentari": "1",
@@ -683,8 +683,8 @@
   ],
   [
     {
-      "idGruppo": 216,
       "idDeputato": 850,
+      "idGruppo": 216,
       "DisegnidiLegge": "1",
       "InterrogazioniParlamentari": "10",
       "InterpellanzeParlamentari": "1",
@@ -694,8 +694,8 @@
   ],
   [
     {
-      "idGruppo": 197,
       "idDeputato": 851,
+      "idGruppo": 197,
       "DisegnidiLegge": "4",
       "InterrogazioniParlamentari": "74",
       "InterpellanzeParlamentari": "41",
@@ -705,8 +705,8 @@
   ],
   [
     {
-      "idGruppo": 223,
       "idDeputato": 852,
+      "idGruppo": 223,
       "DisegnidiLegge": "9",
       "InterrogazioniParlamentari": "28",
       "InterpellanzeParlamentari": "0",
@@ -716,8 +716,8 @@
   ],
   [
     {
-      "idGruppo": 223,
       "idDeputato": 853,
+      "idGruppo": 223,
       "DisegnidiLegge": "7",
       "InterrogazioniParlamentari": "14",
       "InterpellanzeParlamentari": "1",
@@ -727,8 +727,8 @@
   ],
   [
     {
-      "idGruppo": 220,
       "idDeputato": 854,
+      "idGruppo": 220,
       "DisegnidiLegge": "18",
       "InterrogazioniParlamentari": "192",
       "InterpellanzeParlamentari": "54",
@@ -738,8 +738,8 @@
   ],
   [
     {
-      "idGruppo": 197,
       "idDeputato": 855,
+      "idGruppo": 197,
       "DisegnidiLegge": "11",
       "InterrogazioniParlamentari": "60",
       "InterpellanzeParlamentari": "26",
@@ -749,8 +749,8 @@
   ],
   [
     {
-      "idGruppo": 196,
       "idDeputato": 857,
+      "idGruppo": 196,
       "DisegnidiLegge": "4",
       "InterrogazioniParlamentari": "15",
       "InterpellanzeParlamentari": "1",
@@ -760,8 +760,8 @@
   ],
   [
     {
-      "idGruppo": 197,
       "idDeputato": 858,
+      "idGruppo": 197,
       "DisegnidiLegge": "10",
       "InterrogazioniParlamentari": "60",
       "InterpellanzeParlamentari": "6",
@@ -771,8 +771,8 @@
   ],
   [
     {
-      "idGruppo": 224,
       "idDeputato": 859,
+      "idGruppo": 224,
       "DisegnidiLegge": "0",
       "InterrogazioniParlamentari": "2",
       "InterpellanzeParlamentari": "0",
@@ -782,8 +782,8 @@
   ],
   [
     {
-      "idGruppo": 196,
       "idDeputato": 860,
+      "idGruppo": 196,
       "DisegnidiLegge": "2",
       "InterrogazioniParlamentari": "3",
       "InterpellanzeParlamentari": "0",
@@ -793,8 +793,8 @@
   ],
   [
     {
-      "idGruppo": 214,
       "idDeputato": 861,
+      "idGruppo": 214,
       "DisegnidiLegge": "2",
       "InterrogazioniParlamentari": "14",
       "InterpellanzeParlamentari": "0",
@@ -804,8 +804,8 @@
   ],
   [
     {
-      "idGruppo": 197,
       "idDeputato": 862,
+      "idGruppo": 197,
       "DisegnidiLegge": "21",
       "InterrogazioniParlamentari": "65",
       "InterpellanzeParlamentari": "3",
@@ -815,8 +815,8 @@
   ],
   [
     {
-      "idGruppo": 223,
       "idDeputato": 864,
+      "idGruppo": 223,
       "DisegnidiLegge": "15",
       "InterrogazioniParlamentari": "5",
       "InterpellanzeParlamentari": "0",
@@ -826,8 +826,8 @@
   ],
   [
     {
-      "idGruppo": 221,
       "idDeputato": 865,
+      "idGruppo": 221,
       "DisegnidiLegge": "3",
       "InterrogazioniParlamentari": "35",
       "InterpellanzeParlamentari": "0",
@@ -837,8 +837,8 @@
   ],
   [
     {
-      "idGruppo": 197,
       "idDeputato": 866,
+      "idGruppo": 197,
       "DisegnidiLegge": "13",
       "InterrogazioniParlamentari": "78",
       "InterpellanzeParlamentari": "40",
@@ -848,8 +848,8 @@
   ],
   [
     {
-      "idGruppo": 197,
       "idDeputato": 867,
+      "idGruppo": 197,
       "DisegnidiLegge": "26",
       "InterrogazioniParlamentari": "153",
       "InterpellanzeParlamentari": "22",
@@ -859,8 +859,8 @@
   ],
   [
     {
-      "idGruppo": 208,
       "idDeputato": 86,
+      "idGruppo": 208,
       "DisegnidiLegge": "1",
       "InterrogazioniParlamentari": "10",
       "InterpellanzeParlamentari": "0",
@@ -870,8 +870,8 @@
   ],
   [
     {
-      "idGruppo": 208,
       "idDeputato": 881,
+      "idGruppo": 208,
       "DisegnidiLegge": "2",
       "InterrogazioniParlamentari": "7",
       "InterpellanzeParlamentari": "0",
@@ -881,8 +881,8 @@
   ],
   [
     {
-      "idGruppo": 197,
       "idDeputato": 884,
+      "idGruppo": 197,
       "DisegnidiLegge": "11",
       "InterrogazioniParlamentari": "64",
       "InterpellanzeParlamentari": "8",
@@ -892,8 +892,8 @@
   ],
   [
     {
-      "idGruppo": 222,
       "idDeputato": 885,
+      "idGruppo": 222,
       "DisegnidiLegge": "3",
       "InterrogazioniParlamentari": "31",
       "InterpellanzeParlamentari": "0",
@@ -903,8 +903,8 @@
   ],
   [
     {
-      "idGruppo": 208,
       "idDeputato": 893,
+      "idGruppo": 208,
       "DisegnidiLegge": "0",
       "InterrogazioniParlamentari": "21",
       "InterpellanzeParlamentari": "0",
@@ -914,8 +914,8 @@
   ],
   [
     {
-      "idGruppo": 222,
       "idDeputato": 905,
+      "idGruppo": 222,
       "DisegnidiLegge": "0",
       "InterrogazioniParlamentari": "1",
       "InterpellanzeParlamentari": "0",
@@ -925,8 +925,8 @@
   ],
   [
     {
-      "idGruppo": 220,
       "idDeputato": 909,
+      "idGruppo": 220,
       "DisegnidiLegge": "0",
       "InterrogazioniParlamentari": "7",
       "InterpellanzeParlamentari": "0",
@@ -936,8 +936,8 @@
   ],
   [
     {
-      "idGruppo": 225,
       "idDeputato": 910,
+      "idGruppo": 225,
       "DisegnidiLegge": "1",
       "InterrogazioniParlamentari": "2",
       "InterpellanzeParlamentari": "0",
@@ -947,8 +947,8 @@
   ],
   [
     {
-      "idGruppo": 208,
       "idDeputato": 912,
+      "idGruppo": 208,
       "DisegnidiLegge": "0",
       "InterrogazioniParlamentari": "2",
       "InterpellanzeParlamentari": "0",
@@ -958,8 +958,8 @@
   ],
   [
     {
-      "idGruppo": 222,
       "idDeputato": 95,
+      "idGruppo": 222,
       "DisegnidiLegge": "66",
       "InterrogazioniParlamentari": "28",
       "InterpellanzeParlamentari": "1",
