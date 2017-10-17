@@ -39,22 +39,9 @@
     type="text/csv"
     href="../data/attivitaDeputatiRegioneSiciliana.csv"/>
 		<!-- ex:converter="googleSpreadsheets" -->
-		<!-- source: https://docs.google.com/spreadsheets/d/1_jBUTAMwKvEYwf4ymHqFqTWrojH10sIHwJ0RkCctqIc/edit#gid=781303400 -->
+		<!-- source: google spreadsheet here... -->
 
-		<!-- ETICHETTE COLONNE
 
-		Cognome
-		Nome
-		Circoscrizione
-		Gruppo
-		Disegni&nbsp;di&nbsp;Legge
-		Interrogazioni&nbsp;Parlamentari
-		Interpellanze&nbsp;Parlamentari
-		Mozioni
-		Ordini del Giorno
-		Totale
-
-		-->
 
 
     <script src="./js/dist/exhibit-api.js?locale=en"></script>
@@ -94,13 +81,13 @@
 		<div class="row clearfix">
 			<div class="col-md-3 col-sm-12 column">
 				<div ex:role="facet"
-				ex:expression=".Circoscrizione"
-				ex:facetLabel="Circoscrizione"
+				ex:expression=".collegio"
+				ex:facetLabel="Collegio elettorale"
 				ex:sortMode="value"
-				ex:orders=".Circoscrizione">
+				ex:orders=".collegio">
 			  </div>
 			  <div ex:role="facet"
-				ex:expression=".Gruppo"
+				ex:expression=".nomeGruppo"
         			ex:facetLabel="Gruppo"
 			  	ex:sortMode="value">
 			  </div>
@@ -113,35 +100,49 @@
 					<div ex:role="exhibit-view"
 					ex:viewClass="Exhibit.TabularView"
 					ex:label="Table"
-					ex:columns=".Cognome"
+					ex:columns=".nome"
 					ex:columnLabels="Elenco dei deputati"
 					ex:columnFormats="list"
 					ex:sortColumn="0"
 					ex:sortDescending="true"
 					ex:tableStyler="tableStyler">
+					<!-- ETICHETTE COLONNE
+					idDeputato
+					idGruppo
+					DisegnidiLegge
+					InterrogazioniParlamentari
+					InterpellanzeParlamentari
+					Mozioni
+					Ordinidelgiorno
+					* DisegnidiLegge_co
+					* InterrogazioniParlamentari_co
+					* InterpellanzeParlamentari_co
+					* Mozioni_co
+					* Ordinidelgiorno_co
+					* uriDeputato
+					* nome
+					* collegio
+					* nomeGruppo
+
+				-->
 					<div ex:role="exhibit-lens">
 						<div class="table-responsive">
-							<table class="table" ex:class-content=".Cognome">
+							<table class="table" ex:class-content=".nome">
 								<tr>
 								<td>
-									<!--
-									<a ex:href-content=".LINK" target="_blank">
-										<strong><h3 ex:content=".OGGETTO"></h3	></strong>
+									<a ex:href-content=".uriDeputato" target="_blank">
+										<strong><h3 ex:content=".nome"></h3	></strong>
 									</a>
-								-->
-								  <br><strong>Nome e Cognome:</strong>
-										<span ex:content=".Nome" class="petrusino"></span>
-										<span ex:content=".Cognome" class="petrusino"></span>
-									<br><strong>Circoscrizione: </strong>
-										<span ex:content=".Circoscrizione" class="petrusino"></span>
-									<br><strong>Gruppo: </strong>
-										<span ex:content=".Gruppo" class="petrusino"></span>
-											<br>Disegni di legge: <span ex:content=".Disegni di Legge" class="petrusino"></span>
-											<br>Interrogazioni Parlamentari: <span ex:content=".InterrogazioniParlamentari" class="petrusino"></span>
-											<br>Interpellanze: <span ex:content=".InterpellanzeParlamentari" class="petrusino"></span>
-											<br>Mozioni: <span ex:content=".Mozioni" class="petrusino"></span>
-											<br>Ordini del giorno: <span ex:content=".OrdinidelGiorno" class="petrusino"></span>
-											<br>Totale: <span ex:content=".Totale" class="petrusino"></span>
+									<br><h5>Circoscrizione: </h5><span ex:content=".Circoscrizione" class="petrusino"></span>
+									<br><h5>Gruppo: </h5><span ex:content=".Gruppo" class="petrusino"></span>
+									<hr>
+									<br>Disegni di legge: <span ex:content=".DisegnidiLegge_co" class="petrusino"></span>
+											<br>Interrogazioni Parlamentari: <span ex:content=".InterrogazioniParlamentari_co" class="petrusino"></span>
+											<br>Interpellanze: <span ex:content=".InterpellanzeParlamentari_co" class="petrusino"></span>
+											<br>Mozioni: <span ex:content=".Mozioni_co" class="petrusino"></span>
+											<br>Ordini del giorno: <span ex:content=".Ordinidelgiorno_co" class="petrusino"></span>
+									<hr>
+									<br>Totale: <span ex:content=".Totale" class="petrusino"></span>
 								</td>
 								</tr>
 							</table>
