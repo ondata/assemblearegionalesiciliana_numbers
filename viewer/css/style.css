@@ -82,3 +82,9 @@ a.exhibit-action:hover {
     font-size:1.3rem;
     line-height:2rem;
   }
+
+  h5, {
+      text-transform: uppercase;
+      color: #0096D1 !important;
+      font-weight: 700;
+  }
