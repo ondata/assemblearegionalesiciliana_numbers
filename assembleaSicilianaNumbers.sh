@@ -55,17 +55,17 @@ csvsql -I --query 'select idDeputato,nome,collegio from tmp_anagraficaDeputati_0
 sed -i '1s/^/idGruppo,nomeGruppo\n/' ./anagraficaGruppi.csv
 
 # faccio il join tra la tabella dei dati sui primi firmatari e quella dei cofirmatari e la riordino 
-csvjoin -c 1 primofirmatario.csv cofirmatario.csv > tmp_attivitaDeputatiRegioneSiciliana00.csv
+csvjoin -I -c 1 primofirmatario.csv cofirmatario.csv > tmp_attivitaDeputatiRegioneSiciliana00.csv
 csvsql -I --query "select * from tmp_attivitaDeputatiRegioneSiciliana00 order by idGruppo,idDeputato" tmp_attivitaDeputatiRegioneSiciliana00.csv > tmp_attivitaDeputatiRegioneSiciliana.csv
 
 # aggiungo l'anagrafica dei deputati ai dati sui firmatari
-csvjoin -c 1 ./tmp_attivitaDeputatiRegioneSiciliana.csv ./tmp_anagraficaDeputati_02.csv > tmp_attivitaDeputatiRegioneSiciliana_02.csv
+csvjoin -I -c 1 ./tmp_attivitaDeputatiRegioneSiciliana.csv ./tmp_anagraficaDeputati_02.csv > tmp_attivitaDeputatiRegioneSiciliana_02.csv
 
 # sposto nomeGruppo di anagraficaGruppi a inizio tabella
 csvsql -I --query "select distinct nomeGruppo,idGruppo from anagraficaGruppi" anagraficaGruppi.csv > tmp_anagraficaGruppi.csv
 
 # aggiungo l'anagrafica dei gruppi ai dati sui firmatari
-csvjoin -c 2 ./tmp_attivitaDeputatiRegioneSiciliana_02.csv ./tmp_anagraficaGruppi.csv > attivitaDeputatiRegioneSiciliana.csv
+csvjoin -I -c 2 ./tmp_attivitaDeputatiRegioneSiciliana_02.csv ./tmp_anagraficaGruppi.csv > attivitaDeputatiRegioneSiciliana.csv
 
 # rimuovo la stringa 'Gruppo dalla colonna nomeGruppo'
 sed -i 's/,Gruppo /,/g' attivitaDeputatiRegioneSiciliana.csv
