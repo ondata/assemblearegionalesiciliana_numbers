@@ -31,4 +31,6 @@ Tutti i CSV sono in `UTF-8` e hanno la `,` come separatore.
 
 - csvkit [https://csvkit.readthedocs.io](https://csvkit.readthedocs.io);
 - jq [https://stedolan.github.io/jq/](https://stedolan.github.io/jq/);
-- pup [https://github.com/ericchiang/pup](https://github.com/ericchiang/pup).
+- pup [https://github.com/ericchiang/pup](https://github.com/ericchiang/pup)
+- scrape [https://github.com/jeroenjanssens/data-science-at-the-command-line/blob/master/tools/scrape](https://github.com/jeroenjanssens/data-science-at-the-command-line/blob/master/tools/scrape);
+- xml2json [https://github.com/Inist-CNRS/node-xml2json-command](https://github.com/Inist-CNRS/node-xml2json-command).

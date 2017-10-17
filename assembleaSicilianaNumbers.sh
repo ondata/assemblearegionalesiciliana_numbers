@@ -28,8 +28,8 @@ do
     uriDeputato=$(echo "http://www.ars.sicilia.it/deputati/""${n}" | sed 's/&amp;/\&/g')
     idDeputato=$(echo "$uriDeputato" | sed -r 's/^.*utato=//g')
     echo "$uriDeputato"",""$idGruppo"
-    curl -s "$uriDeputato" | scrape -be "//table[2]//tr[5]/td[3]/table//tr[2]/td" | xml2json | jq '[.html.body.td | {idGruppo:'"$idGruppo"',idDeputato:'"$idDeputato"',DisegnidiLegge:."$t"[0]|gsub("(\\[|\\])";""),InterrogazioniParlamentari:."$t"[1]|gsub("(\\[|\\])";""),InterpellanzeParlamentari:."$t"[2]|gsub("(\\[|\\])";""),Mozioni:."$t"[3]|gsub("(\\[|\\])";""),Ordinidelgiorno:."$t"[4]|gsub("(\\[|\\])";"")}]' > PF_"$idDeputato".json
-    curl -s "$uriDeputato" | scrape -be "//table[2]//tr[5]/td[3]/table//tr[5]/td" | xml2json | jq '[.html.body.td | {idGruppo:'"$idGruppo"',idDeputato:'"$idDeputato"',DisegnidiLegge_co:."$t"[0]|gsub("(\\[|\\])";""),InterrogazioniParlamentari_co:."$t"[1]|gsub("(\\[|\\])";""),InterpellanzeParlamentari_co:."$t"[2]|gsub("(\\[|\\])";""),Mozioni_co:."$t"[3]|gsub("(\\[|\\])";""),Ordinidelgiorno_co:."$t"[4]|gsub("(\\[|\\])";""),uriDeputato:"'"$uriDeputato"'"}]' > CF_"$idDeputato".json
+    curl -s "$uriDeputato" | scrape -be "//table[2]//tr[5]/td[3]/table//tr[2]/td" | xml2json | jq '[.html.body.td | {idDeputato:'"$idDeputato"',idGruppo:'"$idGruppo"',DisegnidiLegge:."$t"[0]|gsub("(\\[|\\])";""),InterrogazioniParlamentari:."$t"[1]|gsub("(\\[|\\])";""),InterpellanzeParlamentari:."$t"[2]|gsub("(\\[|\\])";""),Mozioni:."$t"[3]|gsub("(\\[|\\])";""),Ordinidelgiorno:."$t"[4]|gsub("(\\[|\\])";"")}]' > PF_"$idDeputato".json
+    curl -s "$uriDeputato" | scrape -be "//table[2]//tr[5]/td[3]/table//tr[5]/td" | xml2json | jq '[.html.body.td | {idDeputato:'"$idDeputato"',DisegnidiLegge_co:."$t"[0]|gsub("(\\[|\\])";""),InterrogazioniParlamentari_co:."$t"[1]|gsub("(\\[|\\])";""),InterpellanzeParlamentari_co:."$t"[2]|gsub("(\\[|\\])";""),Mozioni_co:."$t"[3]|gsub("(\\[|\\])";""),Ordinidelgiorno_co:."$t"[4]|gsub("(\\[|\\])";""),uriDeputato:"'"$uriDeputato"'"}]' > CF_"$idDeputato".json
   done
 done
 
@@ -45,7 +45,7 @@ sed -i 's/0\///g' primofirmatario.csv
 sed -i 's/0\///g' cofirmatario.csv
 
 # faccio il join tra la tabella dei dati sui primi firmatari e quella dei cofirmatari
-csvjoin -c 2 primofirmatario.csv cofirmatario.csv > attivitaDeputatiRegioneSiciliana_tmp.csv
+csvjoin -c 1 primofirmatario.csv cofirmatario.csv > attivitaDeputatiRegioneSiciliana_tmp.csv
 csvsql --query "select * from attivitaDeputatiRegioneSiciliana_tmp order by idGruppo,idDeputato" attivitaDeputatiRegioneSiciliana_tmp.csv > attivitaDeputatiRegioneSiciliana.csv
 
 # faccio pulizia nella cartella corrente
