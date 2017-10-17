@@ -22,6 +22,7 @@ do
   idGruppo=$(echo "$m" | sed -r 's/^.*dGruppo=//g')
 # estraggo i nomi dei gruppi
   curl -s "$uri" | scrape -be '//td[@id="pageContent"]' | xml2json | jq -r '.html.body.td.div | ['"$idGruppo"',."$t"] | @csv' >> ./anagraficaGruppi.csv
+# estraggo l'anagrafica dei deputati
   curl -s "$uri" | scrape -be '//td[@id="pageContent"]' | xml2json | jq -r '.html.body.td.table[1].tr[] | ['"$idGruppo"',.td[1].a."$t",.td[3]."$t",(.td[1].a.href | tostring | gsub("^.*Deputato="; ""))] | @csv' >> ./tmp_anagraficaDeputati.csv
 # per ogni pagina di un deputato estraggo il numero di attività svolte da primo firmatario e da cofirmatario
   for n in "${indirizziDeputatii[@]}"
