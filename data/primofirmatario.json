@@ -1,0 +1,970 @@
+[
+  [
+    {
+      "idGruppo": 224,
+      "idDeputato": 16,
+      "DisegnidiLegge": "2",
+      "InterrogazioniParlamentari": "0",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "0",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 223,
+      "idDeputato": 28,
+      "DisegnidiLegge": "7",
+      "InterrogazioniParlamentari": "14",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "7",
+      "Ordinidelgiorno": "5"
+    }
+  ],
+  [
+    {
+      "idGruppo": 196,
+      "idDeputato": 32,
+      "DisegnidiLegge": "11",
+      "InterrogazioniParlamentari": "13",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "2",
+      "Ordinidelgiorno": "2"
+    }
+  ],
+  [
+    {
+      "idGruppo": 220,
+      "idDeputato": 45,
+      "DisegnidiLegge": "6",
+      "InterrogazioniParlamentari": "14",
+      "InterpellanzeParlamentari": "6",
+      "Mozioni": "2",
+      "Ordinidelgiorno": "4"
+    }
+  ],
+  [
+    {
+      "idGruppo": 200,
+      "idDeputato": 473,
+      "DisegnidiLegge": "5",
+      "InterrogazioniParlamentari": "29",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "9",
+      "Ordinidelgiorno": "1"
+    }
+  ],
+  [
+    {
+      "idGruppo": 196,
+      "idDeputato": 692,
+      "DisegnidiLegge": "14",
+      "InterrogazioniParlamentari": "5",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "3",
+      "Ordinidelgiorno": "2"
+    }
+  ],
+  [
+    {
+      "idGruppo": 196,
+      "idDeputato": 695,
+      "DisegnidiLegge": "2",
+      "InterrogazioniParlamentari": "10",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "1",
+      "Ordinidelgiorno": "4"
+    }
+  ],
+  [
+    {
+      "idGruppo": 213,
+      "idDeputato": 701,
+      "DisegnidiLegge": "7",
+      "InterrogazioniParlamentari": "14",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "4",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 225,
+      "idDeputato": 702,
+      "DisegnidiLegge": "22",
+      "InterrogazioniParlamentari": "56",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "8",
+      "Ordinidelgiorno": "11"
+    }
+  ],
+  [
+    {
+      "idGruppo": 201,
+      "idDeputato": 710,
+      "DisegnidiLegge": "0",
+      "InterrogazioniParlamentari": "3",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "0",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 196,
+      "idDeputato": 713,
+      "DisegnidiLegge": "19",
+      "InterrogazioniParlamentari": "0",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "1",
+      "Ordinidelgiorno": "12"
+    }
+  ],
+  [
+    {
+      "idGruppo": 196,
+      "idDeputato": 720,
+      "DisegnidiLegge": "15",
+      "InterrogazioniParlamentari": "46",
+      "InterpellanzeParlamentari": "2",
+      "Mozioni": "1",
+      "Ordinidelgiorno": "9"
+    }
+  ],
+  [
+    {
+      "idGruppo": 208,
+      "idDeputato": 725,
+      "DisegnidiLegge": "8",
+      "InterrogazioniParlamentari": "12",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "8",
+      "Ordinidelgiorno": "5"
+    }
+  ],
+  [
+    {
+      "idGruppo": 208,
+      "idDeputato": 727,
+      "DisegnidiLegge": "42",
+      "InterrogazioniParlamentari": "44",
+      "InterpellanzeParlamentari": "8",
+      "Mozioni": "9",
+      "Ordinidelgiorno": "6"
+    }
+  ],
+  [
+    {
+      "idGruppo": 196,
+      "idDeputato": 729,
+      "DisegnidiLegge": "13",
+      "InterrogazioniParlamentari": "46",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "2",
+      "Ordinidelgiorno": "9"
+    }
+  ],
+  [
+    {
+      "idGruppo": 196,
+      "idDeputato": 73,
+      "DisegnidiLegge": "4",
+      "InterrogazioniParlamentari": "4",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "2",
+      "Ordinidelgiorno": "2"
+    }
+  ],
+  [
+    {
+      "idGruppo": 216,
+      "idDeputato": 742,
+      "DisegnidiLegge": "9",
+      "InterrogazioniParlamentari": "24",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "3",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 221,
+      "idDeputato": 752,
+      "DisegnidiLegge": "15",
+      "InterrogazioniParlamentari": "2",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "4",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 208,
+      "idDeputato": 753,
+      "DisegnidiLegge": "27",
+      "InterrogazioniParlamentari": "177",
+      "InterpellanzeParlamentari": "12",
+      "Mozioni": "39",
+      "Ordinidelgiorno": "60"
+    }
+  ],
+  [
+    {
+      "idGruppo": 208,
+      "idDeputato": 755,
+      "DisegnidiLegge": "10",
+      "InterrogazioniParlamentari": "29",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "1",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 200,
+      "idDeputato": 757,
+      "DisegnidiLegge": "8",
+      "InterrogazioniParlamentari": "23",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "1",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 224,
+      "idDeputato": 758,
+      "DisegnidiLegge": "12",
+      "InterrogazioniParlamentari": "56",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "3",
+      "Ordinidelgiorno": "1"
+    }
+  ],
+  [
+    {
+      "idGruppo": 200,
+      "idDeputato": 760,
+      "DisegnidiLegge": "2",
+      "InterrogazioniParlamentari": "71",
+      "InterpellanzeParlamentari": "11",
+      "Mozioni": "4",
+      "Ordinidelgiorno": "28"
+    }
+  ],
+  [
+    {
+      "idGruppo": 206,
+      "idDeputato": 761,
+      "DisegnidiLegge": "15",
+      "InterrogazioniParlamentari": "18",
+      "InterpellanzeParlamentari": "4",
+      "Mozioni": "8",
+      "Ordinidelgiorno": "18"
+    }
+  ],
+  [
+    {
+      "idGruppo": 196,
+      "idDeputato": 764,
+      "DisegnidiLegge": "7",
+      "InterrogazioniParlamentari": "4",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "3",
+      "Ordinidelgiorno": "12"
+    }
+  ],
+  [
+    {
+      "idGruppo": 196,
+      "idDeputato": 767,
+      "DisegnidiLegge": "19",
+      "InterrogazioniParlamentari": "10",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "1",
+      "Ordinidelgiorno": "2"
+    }
+  ],
+  [
+    {
+      "idGruppo": 223,
+      "idDeputato": 771,
+      "DisegnidiLegge": "18",
+      "InterrogazioniParlamentari": "44",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "4",
+      "Ordinidelgiorno": "3"
+    }
+  ],
+  [
+    {
+      "idGruppo": 225,
+      "idDeputato": 775,
+      "DisegnidiLegge": "116",
+      "InterrogazioniParlamentari": "1023",
+      "InterpellanzeParlamentari": "2",
+      "Mozioni": "20",
+      "Ordinidelgiorno": "42"
+    }
+  ],
+  [
+    {
+      "idGruppo": 214,
+      "idDeputato": 776,
+      "DisegnidiLegge": "3",
+      "InterrogazioniParlamentari": "18",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "2",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 201,
+      "idDeputato": 778,
+      "DisegnidiLegge": "21",
+      "InterrogazioniParlamentari": "25",
+      "InterpellanzeParlamentari": "11",
+      "Mozioni": "4",
+      "Ordinidelgiorno": "9"
+    }
+  ],
+  [
+    {
+      "idGruppo": 223,
+      "idDeputato": 780,
+      "DisegnidiLegge": "3",
+      "InterrogazioniParlamentari": "2",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "2",
+      "Ordinidelgiorno": "1"
+    }
+  ],
+  [
+    {
+      "idGruppo": 214,
+      "idDeputato": 784,
+      "DisegnidiLegge": "4",
+      "InterrogazioniParlamentari": "26",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "8",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 221,
+      "idDeputato": 79,
+      "DisegnidiLegge": "5",
+      "InterrogazioniParlamentari": "13",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "3",
+      "Ordinidelgiorno": "2"
+    }
+  ],
+  [
+    {
+      "idGruppo": 213,
+      "idDeputato": 805,
+      "DisegnidiLegge": "5",
+      "InterrogazioniParlamentari": "25",
+      "InterpellanzeParlamentari": "9",
+      "Mozioni": "0",
+      "Ordinidelgiorno": "1"
+    }
+  ],
+  [
+    {
+      "idGruppo": 196,
+      "idDeputato": 816,
+      "DisegnidiLegge": "7",
+      "InterrogazioniParlamentari": "25",
+      "InterpellanzeParlamentari": "3",
+      "Mozioni": "9",
+      "Ordinidelgiorno": "9"
+    }
+  ],
+  [
+    {
+      "idGruppo": 196,
+      "idDeputato": 817,
+      "DisegnidiLegge": "8",
+      "InterrogazioniParlamentari": "8",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "4",
+      "Ordinidelgiorno": "6"
+    }
+  ],
+  [
+    {
+      "idGruppo": 196,
+      "idDeputato": 818,
+      "DisegnidiLegge": "6",
+      "InterrogazioniParlamentari": "27",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "6",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 208,
+      "idDeputato": 819,
+      "DisegnidiLegge": "9",
+      "InterrogazioniParlamentari": "111",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "29",
+      "Ordinidelgiorno": "2"
+    }
+  ],
+  [
+    {
+      "idGruppo": 196,
+      "idDeputato": 820,
+      "DisegnidiLegge": "17",
+      "InterrogazioniParlamentari": "29",
+      "InterpellanzeParlamentari": "4",
+      "Mozioni": "4",
+      "Ordinidelgiorno": "4"
+    }
+  ],
+  [
+    {
+      "idGruppo": 197,
+      "idDeputato": 821,
+      "DisegnidiLegge": "25",
+      "InterrogazioniParlamentari": "78",
+      "InterpellanzeParlamentari": "15",
+      "Mozioni": "30",
+      "Ordinidelgiorno": "9"
+    }
+  ],
+  [
+    {
+      "idGruppo": 197,
+      "idDeputato": 822,
+      "DisegnidiLegge": "5",
+      "InterrogazioniParlamentari": "87",
+      "InterpellanzeParlamentari": "23",
+      "Mozioni": "10",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 197,
+      "idDeputato": 823,
+      "DisegnidiLegge": "12",
+      "InterrogazioniParlamentari": "67",
+      "InterpellanzeParlamentari": "35",
+      "Mozioni": "15",
+      "Ordinidelgiorno": "8"
+    }
+  ],
+  [
+    {
+      "idGruppo": 197,
+      "idDeputato": 824,
+      "DisegnidiLegge": "6",
+      "InterrogazioniParlamentari": "44",
+      "InterpellanzeParlamentari": "3",
+      "Mozioni": "10",
+      "Ordinidelgiorno": "2"
+    }
+  ],
+  [
+    {
+      "idGruppo": 196,
+      "idDeputato": 825,
+      "DisegnidiLegge": "9",
+      "InterrogazioniParlamentari": "44",
+      "InterpellanzeParlamentari": "3",
+      "Mozioni": "6",
+      "Ordinidelgiorno": "6"
+    }
+  ],
+  [
+    {
+      "idGruppo": 201,
+      "idDeputato": 826,
+      "DisegnidiLegge": "2",
+      "InterrogazioniParlamentari": "4",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "0",
+      "Ordinidelgiorno": "8"
+    }
+  ],
+  [
+    {
+      "idGruppo": 213,
+      "idDeputato": 827,
+      "DisegnidiLegge": "7",
+      "InterrogazioniParlamentari": "22",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "12",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 216,
+      "idDeputato": 830,
+      "DisegnidiLegge": "6",
+      "InterrogazioniParlamentari": "6",
+      "InterpellanzeParlamentari": "2",
+      "Mozioni": "4",
+      "Ordinidelgiorno": "9"
+    }
+  ],
+  [
+    {
+      "idGruppo": 196,
+      "idDeputato": 831,
+      "DisegnidiLegge": "6",
+      "InterrogazioniParlamentari": "8",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "4",
+      "Ordinidelgiorno": "2"
+    }
+  ],
+  [
+    {
+      "idGruppo": 197,
+      "idDeputato": 835,
+      "DisegnidiLegge": "9",
+      "InterrogazioniParlamentari": "76",
+      "InterpellanzeParlamentari": "19",
+      "Mozioni": "12",
+      "Ordinidelgiorno": "2"
+    }
+  ],
+  [
+    {
+      "idGruppo": 222,
+      "idDeputato": 836,
+      "DisegnidiLegge": "18",
+      "InterrogazioniParlamentari": "150",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "11",
+      "Ordinidelgiorno": "8"
+    }
+  ],
+  [
+    {
+      "idGruppo": 225,
+      "idDeputato": 838,
+      "DisegnidiLegge": "15",
+      "InterrogazioniParlamentari": "34",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "4",
+      "Ordinidelgiorno": "7"
+    }
+  ],
+  [
+    {
+      "idGruppo": 197,
+      "idDeputato": 839,
+      "DisegnidiLegge": "11",
+      "InterrogazioniParlamentari": "99",
+      "InterpellanzeParlamentari": "48",
+      "Mozioni": "44",
+      "Ordinidelgiorno": "23"
+    }
+  ],
+  [
+    {
+      "idGruppo": 208,
+      "idDeputato": 840,
+      "DisegnidiLegge": "11",
+      "InterrogazioniParlamentari": "56",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "5",
+      "Ordinidelgiorno": "4"
+    }
+  ],
+  [
+    {
+      "idGruppo": 201,
+      "idDeputato": 841,
+      "DisegnidiLegge": "8",
+      "InterrogazioniParlamentari": "36",
+      "InterpellanzeParlamentari": "11",
+      "Mozioni": "11",
+      "Ordinidelgiorno": "9"
+    }
+  ],
+  [
+    {
+      "idGruppo": 214,
+      "idDeputato": 842,
+      "DisegnidiLegge": "11",
+      "InterrogazioniParlamentari": "3",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "0",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 221,
+      "idDeputato": 843,
+      "DisegnidiLegge": "2",
+      "InterrogazioniParlamentari": "3",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "0",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 197,
+      "idDeputato": 844,
+      "DisegnidiLegge": "8",
+      "InterrogazioniParlamentari": "95",
+      "InterpellanzeParlamentari": "15",
+      "Mozioni": "11",
+      "Ordinidelgiorno": "8"
+    }
+  ],
+  [
+    {
+      "idGruppo": 222,
+      "idDeputato": 845,
+      "DisegnidiLegge": "8",
+      "InterrogazioniParlamentari": "24",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "4",
+      "Ordinidelgiorno": "2"
+    }
+  ],
+  [
+    {
+      "idGruppo": 214,
+      "idDeputato": 846,
+      "DisegnidiLegge": "26",
+      "InterrogazioniParlamentari": "5",
+      "InterpellanzeParlamentari": "2",
+      "Mozioni": "3",
+      "Ordinidelgiorno": "1"
+    }
+  ],
+  [
+    {
+      "idGruppo": 200,
+      "idDeputato": 847,
+      "DisegnidiLegge": "31",
+      "InterrogazioniParlamentari": "61",
+      "InterpellanzeParlamentari": "16",
+      "Mozioni": "40",
+      "Ordinidelgiorno": "30"
+    }
+  ],
+  [
+    {
+      "idGruppo": 208,
+      "idDeputato": 848,
+      "DisegnidiLegge": "7",
+      "InterrogazioniParlamentari": "41",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "5",
+      "Ordinidelgiorno": "1"
+    }
+  ],
+  [
+    {
+      "idGruppo": 206,
+      "idDeputato": 849,
+      "DisegnidiLegge": "12",
+      "InterrogazioniParlamentari": "13",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "5",
+      "Ordinidelgiorno": "2"
+    }
+  ],
+  [
+    {
+      "idGruppo": 216,
+      "idDeputato": 850,
+      "DisegnidiLegge": "1",
+      "InterrogazioniParlamentari": "10",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "1",
+      "Ordinidelgiorno": "1"
+    }
+  ],
+  [
+    {
+      "idGruppo": 197,
+      "idDeputato": 851,
+      "DisegnidiLegge": "4",
+      "InterrogazioniParlamentari": "74",
+      "InterpellanzeParlamentari": "41",
+      "Mozioni": "7",
+      "Ordinidelgiorno": "6"
+    }
+  ],
+  [
+    {
+      "idGruppo": 223,
+      "idDeputato": 852,
+      "DisegnidiLegge": "9",
+      "InterrogazioniParlamentari": "28",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "1",
+      "Ordinidelgiorno": "2"
+    }
+  ],
+  [
+    {
+      "idGruppo": 223,
+      "idDeputato": 853,
+      "DisegnidiLegge": "7",
+      "InterrogazioniParlamentari": "14",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "2",
+      "Ordinidelgiorno": "2"
+    }
+  ],
+  [
+    {
+      "idGruppo": 220,
+      "idDeputato": 854,
+      "DisegnidiLegge": "18",
+      "InterrogazioniParlamentari": "192",
+      "InterpellanzeParlamentari": "54",
+      "Mozioni": "17",
+      "Ordinidelgiorno": "1"
+    }
+  ],
+  [
+    {
+      "idGruppo": 197,
+      "idDeputato": 855,
+      "DisegnidiLegge": "11",
+      "InterrogazioniParlamentari": "60",
+      "InterpellanzeParlamentari": "26",
+      "Mozioni": "12",
+      "Ordinidelgiorno": "7"
+    }
+  ],
+  [
+    {
+      "idGruppo": 196,
+      "idDeputato": 857,
+      "DisegnidiLegge": "4",
+      "InterrogazioniParlamentari": "15",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "4",
+      "Ordinidelgiorno": "2"
+    }
+  ],
+  [
+    {
+      "idGruppo": 197,
+      "idDeputato": 858,
+      "DisegnidiLegge": "10",
+      "InterrogazioniParlamentari": "60",
+      "InterpellanzeParlamentari": "6",
+      "Mozioni": "5",
+      "Ordinidelgiorno": "1"
+    }
+  ],
+  [
+    {
+      "idGruppo": 224,
+      "idDeputato": 859,
+      "DisegnidiLegge": "0",
+      "InterrogazioniParlamentari": "2",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "0",
+      "Ordinidelgiorno": "1"
+    }
+  ],
+  [
+    {
+      "idGruppo": 196,
+      "idDeputato": 860,
+      "DisegnidiLegge": "2",
+      "InterrogazioniParlamentari": "3",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "2",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 214,
+      "idDeputato": 861,
+      "DisegnidiLegge": "2",
+      "InterrogazioniParlamentari": "14",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "0",
+      "Ordinidelgiorno": "2"
+    }
+  ],
+  [
+    {
+      "idGruppo": 197,
+      "idDeputato": 862,
+      "DisegnidiLegge": "21",
+      "InterrogazioniParlamentari": "65",
+      "InterpellanzeParlamentari": "3",
+      "Mozioni": "12",
+      "Ordinidelgiorno": "1"
+    }
+  ],
+  [
+    {
+      "idGruppo": 223,
+      "idDeputato": 864,
+      "DisegnidiLegge": "15",
+      "InterrogazioniParlamentari": "5",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "1",
+      "Ordinidelgiorno": "6"
+    }
+  ],
+  [
+    {
+      "idGruppo": 221,
+      "idDeputato": 865,
+      "DisegnidiLegge": "3",
+      "InterrogazioniParlamentari": "35",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "2",
+      "Ordinidelgiorno": "2"
+    }
+  ],
+  [
+    {
+      "idGruppo": 197,
+      "idDeputato": 866,
+      "DisegnidiLegge": "13",
+      "InterrogazioniParlamentari": "78",
+      "InterpellanzeParlamentari": "40",
+      "Mozioni": "18",
+      "Ordinidelgiorno": "18"
+    }
+  ],
+  [
+    {
+      "idGruppo": 197,
+      "idDeputato": 867,
+      "DisegnidiLegge": "26",
+      "InterrogazioniParlamentari": "153",
+      "InterpellanzeParlamentari": "22",
+      "Mozioni": "54",
+      "Ordinidelgiorno": "14"
+    }
+  ],
+  [
+    {
+      "idGruppo": 208,
+      "idDeputato": 86,
+      "DisegnidiLegge": "1",
+      "InterrogazioniParlamentari": "10",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "0",
+      "Ordinidelgiorno": "16"
+    }
+  ],
+  [
+    {
+      "idGruppo": 208,
+      "idDeputato": 881,
+      "DisegnidiLegge": "2",
+      "InterrogazioniParlamentari": "7",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "2",
+      "Ordinidelgiorno": "9"
+    }
+  ],
+  [
+    {
+      "idGruppo": 197,
+      "idDeputato": 884,
+      "DisegnidiLegge": "11",
+      "InterrogazioniParlamentari": "64",
+      "InterpellanzeParlamentari": "8",
+      "Mozioni": "11",
+      "Ordinidelgiorno": "1"
+    }
+  ],
+  [
+    {
+      "idGruppo": 222,
+      "idDeputato": 885,
+      "DisegnidiLegge": "3",
+      "InterrogazioniParlamentari": "31",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "1",
+      "Ordinidelgiorno": "5"
+    }
+  ],
+  [
+    {
+      "idGruppo": 208,
+      "idDeputato": 893,
+      "DisegnidiLegge": "0",
+      "InterrogazioniParlamentari": "21",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "1",
+      "Ordinidelgiorno": "1"
+    }
+  ],
+  [
+    {
+      "idGruppo": 222,
+      "idDeputato": 905,
+      "DisegnidiLegge": "0",
+      "InterrogazioniParlamentari": "1",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "0",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 220,
+      "idDeputato": 909,
+      "DisegnidiLegge": "0",
+      "InterrogazioniParlamentari": "7",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "0",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 225,
+      "idDeputato": 910,
+      "DisegnidiLegge": "1",
+      "InterrogazioniParlamentari": "2",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "0",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 208,
+      "idDeputato": 912,
+      "DisegnidiLegge": "0",
+      "InterrogazioniParlamentari": "2",
+      "InterpellanzeParlamentari": "0",
+      "Mozioni": "0",
+      "Ordinidelgiorno": "0"
+    }
+  ],
+  [
+    {
+      "idGruppo": 222,
+      "idDeputato": 95,
+      "DisegnidiLegge": "66",
+      "InterrogazioniParlamentari": "28",
+      "InterpellanzeParlamentari": "1",
+      "Mozioni": "5",
+      "Ordinidelgiorno": "4"
+    }
+  ]
+]
