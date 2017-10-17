@@ -67,6 +67,9 @@ csvsql -I --query "select distinct nomeGruppo,idGruppo from anagraficaGruppi" an
 # aggiungo l'anagrafica dei gruppi ai dati sui firmatari
 csvjoin -c 2 ./tmp_attivitaDeputatiRegioneSiciliana_02.csv ./tmp_anagraficaGruppi.csv > attivitaDeputatiRegioneSiciliana.csv
 
+# rimuovo la stringa 'Gruppo dalla colonna nomeGruppo'
+sed -i 's/,Gruppo /,/g' attivitaDeputatiRegioneSiciliana.csv
+
 # faccio pulizia nella cartella corrente
 rm ./tmp_*.csv
 rm ./PF*.json 

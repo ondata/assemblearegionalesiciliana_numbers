@@ -1,90 +1,90 @@
 idDeputato,idGruppo,DisegnidiLegge,InterrogazioniParlamentari,InterpellanzeParlamentari,Mozioni,Ordinidelgiorno,DisegnidiLegge_co,InterrogazioniParlamentari_co,InterpellanzeParlamentari_co,Mozioni_co,Ordinidelgiorno_co,uriDeputato,nome,collegio,nomeGruppo
-32,196,11,13,1,2,2,19,2,1,8,12,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=32,On. Cracolici Antonello,Palermo,Gruppo Partito Democratico (PD)
-692,196,14,5,1,3,2,18,0,1,14,8,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=692,On. Laccoto Giuseppe,Messina,Gruppo Partito Democratico (PD)
-695,196,2,10,0,1,4,1,0,0,0,4,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=695,On. Apprendi Giuseppe,Palermo,Gruppo Partito Democratico (PD)
-713,196,19,0,0,1,12,34,13,3,25,32,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=713,On. Gucciardi Baldassare,Trapani,Gruppo Partito Democratico (PD)
-720,196,15,46,2,1,9,30,5,2,17,16,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=720,On. Panepinto Giovanni,Agrigento,Gruppo Partito Democratico (PD)
-729,196,13,46,1,2,9,46,44,6,23,32,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=729,On. Ruggirello Paolo,Trapani,Gruppo Partito Democratico (PD)
-73,196,4,4,0,2,2,24,20,1,23,15,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=73,On. Nicotra Raffaele Giuseppe,Catania,Gruppo Partito Democratico (PD)
-764,196,7,4,1,3,12,32,0,0,14,34,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=764,On. Lupo Giuseppe,Palermo,Gruppo Partito Democratico (PD)
-767,196,19,10,0,1,2,36,2,0,16,22,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=767,On. Marziano Bruno,Siracusa,Gruppo Partito Democratico (PD)
-816,196,7,25,3,9,9,30,4,2,26,26,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=816,On. Alloro Mario,Enna,Gruppo Partito Democratico (PD)
-817,196,8,8,0,4,6,70,15,0,27,32,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=817,On. Anselmo Alice,Regionale,Gruppo Partito Democratico (PD)
-818,196,6,27,0,6,0,42,6,0,21,24,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=818,On. Arancio Giuseppe Concetto,Caltanissetta,Gruppo Partito Democratico (PD)
-820,196,17,29,4,4,4,36,3,1,17,17,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=820,On. Barbagallo Anthony Emanuele,Catania,Gruppo Partito Democratico (PD)
-825,196,9,44,3,6,6,40,9,1,26,29,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=825,On. Cirone Maria in Di Marco,Regionale,Gruppo Partito Democratico (PD)
-831,196,6,8,0,4,2,34,5,0,23,23,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=831,On. Dipasquale Emanuele,Ragusa,Gruppo Partito Democratico (PD)
-857,196,4,15,1,4,2,38,17,1,23,40,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=857,On. Sammartino Luca,Catania,Gruppo Partito Democratico (PD)
-860,196,2,3,0,2,0,31,21,1,26,39,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=860,On. Sudano Valeria,Catania,Gruppo Partito Democratico (PD)
-821,197,25,78,15,30,9,147,1009,289,227,99,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=821,On. Cancelleri Giovanni Carlo,Caltanissetta,Gruppo Movimento Cinque Stelle
-822,197,5,87,23,10,0,159,998,280,242,100,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=822,On. Cappello Francesco,Catania,Gruppo Movimento Cinque Stelle
-823,197,12,67,35,15,8,153,1058,260,238,87,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=823,On. Ciaccio Giorgio,Palermo,Gruppo Movimento Cinque Stelle
-824,197,6,44,3,10,2,159,1042,300,244,92,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=824,On. Ciancio Gianina,Catania,Gruppo Movimento Cinque Stelle
-835,197,9,76,19,12,2,155,1015,283,244,100,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=835,On. Ferreri Vanessa,Ragusa,Gruppo Movimento Cinque Stelle
-839,197,11,99,48,44,23,156,991,255,214,77,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=839,On. Foti Angela,Catania,Gruppo Movimento Cinque Stelle
-844,197,8,95,15,11,8,154,976,276,240,90,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=844,On. La Rocca Claudia,Palermo,Gruppo Movimento Cinque Stelle
-851,197,4,74,41,7,6,167,1018,262,251,91,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=851,On. Mangiacavallo Matteo,Agrigento,Gruppo Movimento Cinque Stelle
-855,197,11,60,26,12,7,155,1028,276,243,89,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=855,On. Palmeri Valentina,Trapani,Gruppo Movimento Cinque Stelle
-858,197,10,60,6,5,1,154,1022,297,250,97,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=858,On. Siragusa Salvatore,Palermo,Gruppo Movimento Cinque Stelle
-862,197,21,65,3,12,1,155,1024,296,241,91,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=862,On. Trizzino Giampiero,Palermo,Gruppo Movimento Cinque Stelle
-866,197,13,78,40,18,18,151,1026,263,236,82,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=866,On. Zafarana Valentina,Messina,Gruppo Movimento Cinque Stelle
-867,197,26,153,22,54,14,141,928,280,204,79,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=867,On. Zito Stefano,Siracusa,Gruppo Movimento Cinque Stelle
-884,197,11,64,8,11,1,138,911,267,224,88,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=884,On. Tancredi Sergio,Trapani,Gruppo Movimento Cinque Stelle
-473,200,5,29,0,9,1,36,74,16,63,45,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=473,On. Di Mauro Giovanni,Agrigento,Gruppo Partito dei Siciliani - MPA
-757,200,8,23,1,1,0,11,26,0,11,1,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=757,On. Fiorenza Cataldo,Catania,Gruppo Partito dei Siciliani - MPA
-760,200,2,71,11,4,28,36,90,18,67,50,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=760,On. Greco Giovanni,Palermo,Gruppo Partito dei Siciliani - MPA
-847,200,31,61,16,40,30,21,48,0,25,15,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=847,On. Lombardo Salvatore Federico,Catania,Gruppo Partito dei Siciliani - MPA
-710,201,0,3,0,0,0,6,6,4,1,9,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=710,On. Gennuso Giuseppe,Siracusa,Gruppo Grande Sud - PID Cantiere Popolare verso Forza Italia
-778,201,21,25,11,4,9,41,8,2,24,37,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=778,On. Cordaro Salvatore,Palermo,Gruppo Grande Sud - PID Cantiere Popolare verso Forza Italia
-826,201,2,4,1,0,8,27,17,6,16,30,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=826,On. Clemente Roberto Saverio,Palermo,Gruppo Grande Sud - PID Cantiere Popolare verso Forza Italia
-841,201,8,36,11,11,9,41,48,6,49,41,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=841,On. Grasso Bernadette Felice,Messina,Gruppo Grande Sud - PID Cantiere Popolare verso Forza Italia
-761,206,15,18,4,8,18,27,22,1,26,39,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=761,On. Lentini Salvatore,Palermo,Gruppo Misto
-849,206,12,13,1,5,2,32,11,1,23,26,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=849,On. Maggio Maria Leonarda,Regionale,Gruppo Misto
-725,208,8,12,0,8,5,47,32,0,12,13,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=725,On. Ragusa Orazio,Ragusa,Gruppo Forza Italia
-727,208,42,44,8,9,6,24,4,2,14,23,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=727,On. Rinaldi Francesco,Messina,Gruppo Forza Italia
-753,208,27,177,12,39,60,80,78,2,67,72,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=753,On. Falcone Marco,Catania,Gruppo Forza Italia
-755,208,10,29,1,1,0,34,71,1,46,19,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=755,On. Federico Giuseppe,Caltanissetta,Gruppo Forza Italia
-819,208,9,111,0,29,2,75,111,4,90,69,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=819,On. Assenza Giorgio,Ragusa,Gruppo Forza Italia
-840,208,11,56,1,5,4,49,46,1,58,23,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=840,On. Germanà Antonino Salvatore,Messina,Gruppo Forza Italia
-848,208,7,41,1,5,1,39,72,1,55,25,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=848,On. Lo Sciuto Giovanni,Trapani,Gruppo Forza Italia
-86,208,1,10,0,0,16,30,58,0,52,33,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=86,On. Savona Riccardo,Palermo,Gruppo Forza Italia
-881,208,2,7,0,2,9,43,72,0,56,45,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=881,On. Milazzo Giuseppe,Palermo,Gruppo Forza Italia
-893,208,0,21,0,1,1,19,47,1,55,13,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=893,On. Papale Alfio,Catania,Gruppo Forza Italia
-912,208,0,2,0,0,0,0,0,0,0,0,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=912,On. Pellegrino Stefano,Trapani,Gruppo Forza Italia
-701,213,7,14,0,4,0,39,61,9,17,16,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=701,On. Currenti Carmelo,Messina,Gruppo Sicilia Democratica
-805,213,5,25,9,0,1,13,4,0,2,4,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=805,On. Giuffrida Salvatore,Catania,Gruppo Sicilia Democratica
-827,213,7,22,0,12,0,29,3,0,17,9,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=827,On. Coltraro Giambattista,Siracusa,Gruppo Sicilia Democratica
-776,214,3,18,1,2,0,25,8,2,30,22,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=776,On. Cascio Salvatore,Agrigento,Gruppo Patto dei Democratici per le riforme - Sicilia Futura
-784,214,4,26,0,8,0,33,16,1,14,16,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=784,On. Picciolo Giuseppe,Messina,Gruppo Patto dei Democratici per le riforme - Sicilia Futura
-842,214,11,3,0,0,0,42,21,3,19,18,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=842,On. Greco Marcello,Messina,Gruppo Patto dei Democratici per le riforme - Sicilia Futura
-846,214,26,5,2,3,1,29,22,0,18,15,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=846,On. Lo Giudice Salvatore,Palermo,Gruppo Patto dei Democratici per le riforme - Sicilia Futura
-861,214,2,14,0,0,2,36,13,1,25,14,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=861,On. Tamajo Edmondo,Palermo,Gruppo Patto dei Democratici per le riforme - Sicilia Futura
-861,214,2,14,0,0,2,36,13,1,25,14,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=861,On. Tamajo Edmondo,Palermo,Gruppo Patto dei Democratici per le riforme - Sicilia Futura
-742,216,9,24,1,3,0,22,3,1,26,13,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=742,On. Oddo Salvatore Antonino,Regionale,Gruppo Partito Socialista Italiano - PSE
-830,216,6,6,2,4,9,24,11,2,29,61,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=830,On. Di Giacinto Giovanni,Palermo,Gruppo Partito Socialista Italiano - PSE
-850,216,1,10,1,1,1,13,4,3,16,12,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=850,On. Malafarina Antonio,Regionale,Gruppo Partito Socialista Italiano - PSE
-45,220,6,14,6,2,4,50,220,61,32,28,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=45,On. Formica Santi,Messina,Gruppo #DiventeràBellissima
-854,220,18,192,54,17,1,39,56,19,14,20,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=854,On. Musumeci Nello,Regionale,Gruppo #DiventeràBellissima
-909,220,0,7,0,0,0,0,41,11,3,1,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=909,On. Barbagallo Alfio,Catania,Gruppo #DiventeràBellissima
-752,221,15,2,0,4,0,30,2,1,11,11,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=752,On. Digiacomo Giuseppe,Ragusa,Gruppo Il Megafono - Lista Crocetta
-79,221,5,13,0,3,2,28,5,0,20,24,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=79,On. Panarello Filippo,Messina,Gruppo Il Megafono - Lista Crocetta
-843,221,2,3,1,0,0,30,11,1,38,18,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=843,On. Lantieri Annunziata Luisa,Enna,Gruppo Il Megafono - Lista Crocetta
-865,221,3,35,0,2,2,26,3,1,21,13,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=865,On. Vullo Gianfranco,Catania,Gruppo Il Megafono - Lista Crocetta
-836,222,18,150,1,11,8,49,103,5,65,54,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=836,On. Figuccia Vincenzo,Palermo,Gruppo UDC (Unione di Centro - Rete Democratica - Sicilia Vera)
-845,222,8,24,0,4,2,56,31,1,24,25,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=845,On. La Rocca Ruvolo Margherita,Agrigento,Gruppo UDC (Unione di Centro - Rete Democratica - Sicilia Vera)
-885,222,3,31,0,1,5,47,47,0,36,21,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=885,On. Alongi Pietro,Palermo,Gruppo UDC (Unione di Centro - Rete Democratica - Sicilia Vera)
-905,222,0,1,0,0,0,10,13,0,6,7,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=905,On. Cani Gaetano,Agrigento,Gruppo UDC (Unione di Centro - Rete Democratica - Sicilia Vera)
-95,222,66,28,1,5,4,43,18,0,14,25,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=95,On. Turano Girolamo,Trapani,Gruppo UDC (Unione di Centro - Rete Democratica - Sicilia Vera)
-28,223,7,14,1,7,5,42,13,2,15,26,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=28,On. Cimino Michele,Agrigento,Gruppo Arcipelago Sicilia Movimento dei territori Micari Presidente
-771,223,18,44,1,4,3,35,2,3,25,28,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=771,On. Raia Concetta,Catania,Gruppo Arcipelago Sicilia Movimento dei territori Micari Presidente
-780,223,3,2,0,2,1,39,18,1,11,11,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=780,On. D'Agostino Nicola,Catania,Gruppo Arcipelago Sicilia Movimento dei territori Micari Presidente
-852,223,9,28,0,1,2,45,15,1,23,10,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=852,On. Miccichè Gianluca Antonello,Caltanissetta,Gruppo Arcipelago Sicilia Movimento dei territori Micari Presidente
-853,223,7,14,1,2,2,49,12,2,31,23,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=853,On. Milazzo Antonella Maria,Regionale,Gruppo Arcipelago Sicilia Movimento dei territori Micari Presidente
-864,223,15,5,0,1,6,29,115,36,32,24,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=864,On. Venturino Antonio,Enna,Gruppo Arcipelago Sicilia Movimento dei territori Micari Presidente
-16,224,2,0,0,0,0,1,0,0,0,0,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=16,On. Ardizzone Giovanni,Messina,Gruppo Centristi per Micari
-758,224,12,56,0,3,1,14,11,1,11,9,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=758,On. Forzese Marco Lucio,Catania,Gruppo Centristi per Micari
-859,224,0,2,0,0,1,41,24,0,14,18,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=859,On. Sorbello Giuseppe,Siracusa,Gruppo Centristi per Micari
-702,225,22,56,1,8,11,34,24,1,32,31,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=702,On. D'Asero Antonino,Catania,Gruppo Alternativa Popolare - Centristi per Micari
-775,225,116,1023,2,20,42,135,68,0,43,66,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=775,On. Vinciullo Vincenzo,Siracusa,Gruppo Alternativa Popolare - Centristi per Micari
-838,225,15,34,0,4,7,54,49,0,49,38,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=838,On. Fontana Vincenzo,Agrigento,Gruppo Alternativa Popolare - Centristi per Micari
-910,225,1,2,0,0,0,7,7,0,10,0,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=910,On. Di Maggio Giuseppe,Palermo,Gruppo Alternativa Popolare - Centristi per Micari
+32,196,11,13,1,2,2,19,2,1,8,12,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=32,On. Cracolici Antonello,Palermo,Partito Democratico (PD)
+692,196,14,5,1,3,2,18,0,1,14,8,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=692,On. Laccoto Giuseppe,Messina,Partito Democratico (PD)
+695,196,2,10,0,1,4,1,0,0,0,4,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=695,On. Apprendi Giuseppe,Palermo,Partito Democratico (PD)
+713,196,19,0,0,1,12,34,13,3,25,32,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=713,On. Gucciardi Baldassare,Trapani,Partito Democratico (PD)
+720,196,15,46,2,1,9,30,5,2,17,16,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=720,On. Panepinto Giovanni,Agrigento,Partito Democratico (PD)
+729,196,13,46,1,2,9,46,44,6,23,32,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=729,On. Ruggirello Paolo,Trapani,Partito Democratico (PD)
+73,196,4,4,0,2,2,24,20,1,23,15,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=73,On. Nicotra Raffaele Giuseppe,Catania,Partito Democratico (PD)
+764,196,7,4,1,3,12,32,0,0,14,34,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=764,On. Lupo Giuseppe,Palermo,Partito Democratico (PD)
+767,196,19,10,0,1,2,36,2,0,16,22,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=767,On. Marziano Bruno,Siracusa,Partito Democratico (PD)
+816,196,7,25,3,9,9,30,4,2,26,26,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=816,On. Alloro Mario,Enna,Partito Democratico (PD)
+817,196,8,8,0,4,6,70,15,0,27,32,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=817,On. Anselmo Alice,Regionale,Partito Democratico (PD)
+818,196,6,27,0,6,0,42,6,0,21,24,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=818,On. Arancio Giuseppe Concetto,Caltanissetta,Partito Democratico (PD)
+820,196,17,29,4,4,4,36,3,1,17,17,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=820,On. Barbagallo Anthony Emanuele,Catania,Partito Democratico (PD)
+825,196,9,44,3,6,6,40,9,1,26,29,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=825,On. Cirone Maria in Di Marco,Regionale,Partito Democratico (PD)
+831,196,6,8,0,4,2,34,5,0,23,23,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=831,On. Dipasquale Emanuele,Ragusa,Partito Democratico (PD)
+857,196,4,15,1,4,2,38,17,1,23,40,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=857,On. Sammartino Luca,Catania,Partito Democratico (PD)
+860,196,2,3,0,2,0,31,21,1,26,39,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=860,On. Sudano Valeria,Catania,Partito Democratico (PD)
+821,197,25,78,15,30,9,147,1009,289,227,99,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=821,On. Cancelleri Giovanni Carlo,Caltanissetta,Movimento Cinque Stelle
+822,197,5,87,23,10,0,159,998,280,242,100,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=822,On. Cappello Francesco,Catania,Movimento Cinque Stelle
+823,197,12,67,35,15,8,153,1058,260,238,87,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=823,On. Ciaccio Giorgio,Palermo,Movimento Cinque Stelle
+824,197,6,44,3,10,2,159,1042,300,244,92,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=824,On. Ciancio Gianina,Catania,Movimento Cinque Stelle
+835,197,9,76,19,12,2,155,1015,283,244,100,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=835,On. Ferreri Vanessa,Ragusa,Movimento Cinque Stelle
+839,197,11,99,48,44,23,156,991,255,214,77,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=839,On. Foti Angela,Catania,Movimento Cinque Stelle
+844,197,8,95,15,11,8,154,976,276,240,90,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=844,On. La Rocca Claudia,Palermo,Movimento Cinque Stelle
+851,197,4,74,41,7,6,167,1018,262,251,91,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=851,On. Mangiacavallo Matteo,Agrigento,Movimento Cinque Stelle
+855,197,11,60,26,12,7,155,1028,276,243,89,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=855,On. Palmeri Valentina,Trapani,Movimento Cinque Stelle
+858,197,10,60,6,5,1,154,1022,297,250,97,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=858,On. Siragusa Salvatore,Palermo,Movimento Cinque Stelle
+862,197,21,65,3,12,1,155,1024,296,241,91,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=862,On. Trizzino Giampiero,Palermo,Movimento Cinque Stelle
+866,197,13,78,40,18,18,151,1026,263,236,82,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=866,On. Zafarana Valentina,Messina,Movimento Cinque Stelle
+867,197,26,153,22,54,14,141,928,280,204,79,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=867,On. Zito Stefano,Siracusa,Movimento Cinque Stelle
+884,197,11,64,8,11,1,138,911,267,224,88,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=884,On. Tancredi Sergio,Trapani,Movimento Cinque Stelle
+473,200,5,29,0,9,1,36,74,16,63,45,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=473,On. Di Mauro Giovanni,Agrigento,Partito dei Siciliani - MPA
+757,200,8,23,1,1,0,11,26,0,11,1,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=757,On. Fiorenza Cataldo,Catania,Partito dei Siciliani - MPA
+760,200,2,71,11,4,28,36,90,18,67,50,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=760,On. Greco Giovanni,Palermo,Partito dei Siciliani - MPA
+847,200,31,61,16,40,30,21,48,0,25,15,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=847,On. Lombardo Salvatore Federico,Catania,Partito dei Siciliani - MPA
+710,201,0,3,0,0,0,6,6,4,1,9,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=710,On. Gennuso Giuseppe,Siracusa,Grande Sud - PID Cantiere Popolare verso Forza Italia
+778,201,21,25,11,4,9,41,8,2,24,37,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=778,On. Cordaro Salvatore,Palermo,Grande Sud - PID Cantiere Popolare verso Forza Italia
+826,201,2,4,1,0,8,27,17,6,16,30,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=826,On. Clemente Roberto Saverio,Palermo,Grande Sud - PID Cantiere Popolare verso Forza Italia
+841,201,8,36,11,11,9,41,48,6,49,41,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=841,On. Grasso Bernadette Felice,Messina,Grande Sud - PID Cantiere Popolare verso Forza Italia
+761,206,15,18,4,8,18,27,22,1,26,39,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=761,On. Lentini Salvatore,Palermo,Misto
+849,206,12,13,1,5,2,32,11,1,23,26,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=849,On. Maggio Maria Leonarda,Regionale,Misto
+725,208,8,12,0,8,5,47,32,0,12,13,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=725,On. Ragusa Orazio,Ragusa,Forza Italia
+727,208,42,44,8,9,6,24,4,2,14,23,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=727,On. Rinaldi Francesco,Messina,Forza Italia
+753,208,27,177,12,39,60,80,78,2,67,72,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=753,On. Falcone Marco,Catania,Forza Italia
+755,208,10,29,1,1,0,34,71,1,46,19,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=755,On. Federico Giuseppe,Caltanissetta,Forza Italia
+819,208,9,111,0,29,2,75,111,4,90,69,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=819,On. Assenza Giorgio,Ragusa,Forza Italia
+840,208,11,56,1,5,4,49,46,1,58,23,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=840,On. Germanà Antonino Salvatore,Messina,Forza Italia
+848,208,7,41,1,5,1,39,72,1,55,25,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=848,On. Lo Sciuto Giovanni,Trapani,Forza Italia
+86,208,1,10,0,0,16,30,58,0,52,33,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=86,On. Savona Riccardo,Palermo,Forza Italia
+881,208,2,7,0,2,9,43,72,0,56,45,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=881,On. Milazzo Giuseppe,Palermo,Forza Italia
+893,208,0,21,0,1,1,19,47,1,55,13,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=893,On. Papale Alfio,Catania,Forza Italia
+912,208,0,2,0,0,0,0,0,0,0,0,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=912,On. Pellegrino Stefano,Trapani,Forza Italia
+701,213,7,14,0,4,0,39,61,9,17,16,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=701,On. Currenti Carmelo,Messina,Sicilia Democratica
+805,213,5,25,9,0,1,13,4,0,2,4,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=805,On. Giuffrida Salvatore,Catania,Sicilia Democratica
+827,213,7,22,0,12,0,29,3,0,17,9,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=827,On. Coltraro Giambattista,Siracusa,Sicilia Democratica
+776,214,3,18,1,2,0,25,8,2,30,22,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=776,On. Cascio Salvatore,Agrigento,Patto dei Democratici per le riforme - Sicilia Futura
+784,214,4,26,0,8,0,33,16,1,14,16,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=784,On. Picciolo Giuseppe,Messina,Patto dei Democratici per le riforme - Sicilia Futura
+842,214,11,3,0,0,0,42,21,3,19,18,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=842,On. Greco Marcello,Messina,Patto dei Democratici per le riforme - Sicilia Futura
+846,214,26,5,2,3,1,29,22,0,18,15,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=846,On. Lo Giudice Salvatore,Palermo,Patto dei Democratici per le riforme - Sicilia Futura
+861,214,2,14,0,0,2,36,13,1,25,14,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=861,On. Tamajo Edmondo,Palermo,Patto dei Democratici per le riforme - Sicilia Futura
+861,214,2,14,0,0,2,36,13,1,25,14,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=861,On. Tamajo Edmondo,Palermo,Patto dei Democratici per le riforme - Sicilia Futura
+742,216,9,24,1,3,0,22,3,1,26,13,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=742,On. Oddo Salvatore Antonino,Regionale,Partito Socialista Italiano - PSE
+830,216,6,6,2,4,9,24,11,2,29,61,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=830,On. Di Giacinto Giovanni,Palermo,Partito Socialista Italiano - PSE
+850,216,1,10,1,1,1,13,4,3,16,12,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=850,On. Malafarina Antonio,Regionale,Partito Socialista Italiano - PSE
+45,220,6,14,6,2,4,50,220,61,32,28,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=45,On. Formica Santi,Messina,#DiventeràBellissima
+854,220,18,192,54,17,1,39,56,19,14,20,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=854,On. Musumeci Nello,Regionale,#DiventeràBellissima
+909,220,0,7,0,0,0,0,41,11,3,1,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=909,On. Barbagallo Alfio,Catania,#DiventeràBellissima
+752,221,15,2,0,4,0,30,2,1,11,11,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=752,On. Digiacomo Giuseppe,Ragusa,Il Megafono - Lista Crocetta
+79,221,5,13,0,3,2,28,5,0,20,24,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=79,On. Panarello Filippo,Messina,Il Megafono - Lista Crocetta
+843,221,2,3,1,0,0,30,11,1,38,18,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=843,On. Lantieri Annunziata Luisa,Enna,Il Megafono - Lista Crocetta
+865,221,3,35,0,2,2,26,3,1,21,13,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=865,On. Vullo Gianfranco,Catania,Il Megafono - Lista Crocetta
+836,222,18,150,1,11,8,49,103,5,65,54,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=836,On. Figuccia Vincenzo,Palermo,UDC (Unione di Centro - Rete Democratica - Sicilia Vera)
+845,222,8,24,0,4,2,56,31,1,24,25,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=845,On. La Rocca Ruvolo Margherita,Agrigento,UDC (Unione di Centro - Rete Democratica - Sicilia Vera)
+885,222,3,31,0,1,5,47,47,0,36,21,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=885,On. Alongi Pietro,Palermo,UDC (Unione di Centro - Rete Democratica - Sicilia Vera)
+905,222,0,1,0,0,0,10,13,0,6,7,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=905,On. Cani Gaetano,Agrigento,UDC (Unione di Centro - Rete Democratica - Sicilia Vera)
+95,222,66,28,1,5,4,43,18,0,14,25,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=95,On. Turano Girolamo,Trapani,UDC (Unione di Centro - Rete Democratica - Sicilia Vera)
+28,223,7,14,1,7,5,42,13,2,15,26,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=28,On. Cimino Michele,Agrigento,Arcipelago Sicilia Movimento dei territori Micari Presidente
+771,223,18,44,1,4,3,35,2,3,25,28,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=771,On. Raia Concetta,Catania,Arcipelago Sicilia Movimento dei territori Micari Presidente
+780,223,3,2,0,2,1,39,18,1,11,11,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=780,On. D'Agostino Nicola,Catania,Arcipelago Sicilia Movimento dei territori Micari Presidente
+852,223,9,28,0,1,2,45,15,1,23,10,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=852,On. Miccichè Gianluca Antonello,Caltanissetta,Arcipelago Sicilia Movimento dei territori Micari Presidente
+853,223,7,14,1,2,2,49,12,2,31,23,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=853,On. Milazzo Antonella Maria,Regionale,Arcipelago Sicilia Movimento dei territori Micari Presidente
+864,223,15,5,0,1,6,29,115,36,32,24,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=864,On. Venturino Antonio,Enna,Arcipelago Sicilia Movimento dei territori Micari Presidente
+16,224,2,0,0,0,0,1,0,0,0,0,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=16,On. Ardizzone Giovanni,Messina,Centristi per Micari
+758,224,12,56,0,3,1,14,11,1,11,9,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=758,On. Forzese Marco Lucio,Catania,Centristi per Micari
+859,224,0,2,0,0,1,41,24,0,14,18,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=859,On. Sorbello Giuseppe,Siracusa,Centristi per Micari
+702,225,22,56,1,8,11,34,24,1,32,31,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=702,On. D'Asero Antonino,Catania,Alternativa Popolare - Centristi per Micari
+775,225,116,1023,2,20,42,135,68,0,43,66,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=775,On. Vinciullo Vincenzo,Siracusa,Alternativa Popolare - Centristi per Micari
+838,225,15,34,0,4,7,54,49,0,49,38,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=838,On. Fontana Vincenzo,Agrigento,Alternativa Popolare - Centristi per Micari
+910,225,1,2,0,0,0,7,7,0,10,0,http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=910,On. Di Maggio Giuseppe,Palermo,Alternativa Popolare - Centristi per Micari
