@@ -1,6 +1,6 @@
 # Assemblea Regionale Siciliana numbers
 
-Il 17 ottobre 2017 Cristiano Longo ha scritto nella [mailing list](https://groups.google.com/forum/#!msg/opendatasicilia/_ea_10o1xkI/oMatwmmYAQAJ) di OpenDataSicilia che [**Generazione Y/Diritto di Accesso**](http://dirittodiaccesso.eu) si era occupata di fare un faticoso lavoro redazionale per monitorare le attività dei deputati dell'[Assemblea Regionale Siciliana](http://www.ars.sicilia.it/deputati/gruppi.jsp). Ne è nato un report in formato aperto pubblicato su [opendatahacklab](http://www.opendatahacklab.org/site/dataset/monitoraggiosicilia2017/).
+Il 17 ottobre 2017 Cristiano Longo ha scritto nella [mailing list](https://groups.google.com/forum/#!msg/opendatasicilia/_ea_10o1xkI/oMatwmmYAQAJ) di OpenDataSicilia che [**Generazione Y/Diritto di Accesso**](http://dirittodiaccesso.eu) si è occupata di fare un faticoso lavoro redazionale per monitorare le attività dei deputati dell'[Assemblea Regionale Siciliana](http://www.ars.sicilia.it/deputati/gruppi.jsp). Ne è nato un report in formato aperto pubblicato su [opendatahacklab](http://www.opendatahacklab.org/site/dataset/monitoraggiosicilia2017/).
 
 Abbiamo creato uno [script](./assembleaSicilianaNumbers.sh) in BASH, che estrae questi dati in automatico e produce i seguenti file:
 
