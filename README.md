@@ -2,6 +2,8 @@
 
 Il 17 ottobre 2017 Cristiano Longo ha scritto nella [mailing list](https://groups.google.com/forum/#!msg/opendatasicilia/_ea_10o1xkI/oMatwmmYAQAJ) di OpenDataSicilia che [**Generazione Y/Diritto di Accesso**](http://dirittodiaccesso.eu) si è occupata di fare un faticoso lavoro redazionale per monitorare le attività dei deputati dell'[Assemblea Regionale Siciliana](http://www.ars.sicilia.it/deputati/gruppi.jsp). Ne è nato un report in formato aperto pubblicato su [opendatahacklab](http://www.opendatahacklab.org/site/dataset/monitoraggiosicilia2017/).
 
+Il report contiene i **numeri** sulle attività parlamentari delle deputate e dei deputati da primi firmatari e/o cofirmatari.
+
 Abbiamo creato uno [script](./assembleaSicilianaNumbers.sh) in BASH, che estrae questi dati in automatico e produce i seguenti file:
 
 - [cofirmatario.csv](https://github.com/ondata/assemblearegionalesiciliana_numbers/blob/master/data/cofirmatario.csv), con i dati di deputate e deputati da confirmatarie/i in formato CSV;
