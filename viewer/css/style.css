@@ -92,3 +92,9 @@ a.exhibit-action:hover {
       color: #404040 !important;
       font-weight: 700;
   }
+
+.avatarpoliticante {
+  float:left;
+  margin: 1rem;
+  max-height:7rem
+}
