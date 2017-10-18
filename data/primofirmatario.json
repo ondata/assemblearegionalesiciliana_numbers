@@ -301,7 +301,7 @@
       "idDeputato": 775,
       "idGruppo": 225,
       "DisegnidiLegge": "116",
-      "InterrogazioniParlamentari": "1023",
+      "InterrogazioniParlamentari": "1024",
       "InterpellanzeParlamentari": "2",
       "Mozioni": "20",
       "Ordinidelgiorno": "42"
@@ -499,7 +499,7 @@
       "idDeputato": 827,
       "idGruppo": 213,
       "DisegnidiLegge": "7",
-      "InterrogazioniParlamentari": "22",
+      "InterrogazioniParlamentari": "25",
       "InterpellanzeParlamentari": "0",
       "Mozioni": "12",
       "Ordinidelgiorno": "0"

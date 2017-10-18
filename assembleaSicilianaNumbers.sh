@@ -3,12 +3,15 @@
 #set -x
 
 ### requisiti ###
-# csvkit https://csvkit.readthedocs.io
+# csvkit 1.0.2 https://csvkit.readthedocs.io
 # jq https://stedolan.github.io/jq/
 # pup https://github.com/ericchiang/pup
 # scrape https://github.com/jeroenjanssens/data-science-at-the-command-line/blob/master/tools/scrape
 # xml2json https://github.com/Inist-CNRS/node-xml2json-command
 ### requisiti ###
+
+# svuoto la cartella data
+rm -R ./data/*
 
 # recupero gli indirizzi dei gruppi
 indirizziGruppi=($(curl -s "http://www.ars.sicilia.it/deputati/gruppi.jsp" | pup '#myTable > tbody > tr > td:nth-child(2) > a attr{href}' | tr "\n" " "))
@@ -66,7 +69,10 @@ csvjoin -I -c 1 ./tmp_attivitaDeputatiRegioneSiciliana.csv ./tmp_anagraficaDeput
 csvsql -I --query "select distinct nomeGruppo,idGruppo from anagraficaGruppi" anagraficaGruppi.csv > tmp_anagraficaGruppi.csv
 
 # aggiungo l'anagrafica dei gruppi ai dati sui firmatari
-csvjoin -I -c 2 ./tmp_attivitaDeputatiRegioneSiciliana_02.csv ./tmp_anagraficaGruppi.csv > attivitaDeputatiRegioneSiciliana.csv
+csvjoin -I -c 2 ./tmp_attivitaDeputatiRegioneSiciliana_02.csv ./tmp_anagraficaGruppi.csv > tmp_attivitaDeputatiRegioneSiciliana_03.csv
+
+# aggiungo URL foto deputato
+csvsql -I --query "select *, 'http://www.ars.sicilia.it/DocumentiEsterni/Immagini/Deputati/'||substr('000000'||idDeputato, -6, 6)||'.jpg' as URLfoto from tmp_attivitaDeputatiRegioneSiciliana_03" ./tmp_attivitaDeputatiRegioneSiciliana_03.csv > ./attivitaDeputatiRegioneSiciliana.csv
 
 # rimuovo la stringa 'Gruppo dalla colonna nomeGruppo'
 sed -i 's/,Gruppo /,/g' attivitaDeputatiRegioneSiciliana.csv
