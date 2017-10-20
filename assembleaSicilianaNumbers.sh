@@ -79,7 +79,7 @@ csvsql -I --query "select *, 'http://www.ars.sicilia.it/DocumentiEsterni/Immagin
 # rimuovo i deputati doppioni raggruppando per idDeputato
 csvsql -I --query "select * FROM tmp_attivitaDeputatiRegioneSiciliana_04 group by idDeputato order by idGruppo,idDeputato" ./tmp_attivitaDeputatiRegioneSiciliana_04.csv > ./attivitaDeputatiRegioneSiciliana.csv
 
-# rimuovo la stringa 'Gruppo dalla colonna nomeGruppo'
+# rimuovo la stringa 'Gruppo ' dalla colonna 'nomeGruppo'
 sed -i 's/,Gruppo /,/g' attivitaDeputatiRegioneSiciliana.csv
 
 # faccio pulizia nella cartella corrente
