@@ -77,7 +77,7 @@ csvjoin -I -c 2 ./tmp_attivitaDeputatiRegioneSiciliana_02.csv ./tmp_anagraficaGr
 csvsql -I --query "select *, 'http://www.ars.sicilia.it/DocumentiEsterni/Immagini/Deputati/'||substr('000000'||idDeputato, -6, 6)||'.jpg' as URLfoto from tmp_attivitaDeputatiRegioneSiciliana_03" ./tmp_attivitaDeputatiRegioneSiciliana_03.csv > ./tmp_attivitaDeputatiRegioneSiciliana_04.csv
 
 # rimuovo i deputati doppioni raggruppando per idDeputato
-csvsql -I --query "select * FROM tmp_attivitaDeputatiRegioneSiciliana_04 group by idDeputato order by idDeputato" ./tmp_attivitaDeputatiRegioneSiciliana_04.csv > ./attivitaDeputatiRegioneSiciliana.csv
+csvsql -I --query "select * FROM tmp_attivitaDeputatiRegioneSiciliana_04 group by idDeputato order by idGruppo,idDeputato" ./tmp_attivitaDeputatiRegioneSiciliana_04.csv > ./attivitaDeputatiRegioneSiciliana.csv
 
 # rimuovo la stringa 'Gruppo dalla colonna nomeGruppo'
 sed -i 's/,Gruppo /,/g' attivitaDeputatiRegioneSiciliana.csv
