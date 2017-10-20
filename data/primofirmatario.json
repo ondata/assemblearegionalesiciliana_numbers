@@ -414,6 +414,11 @@
     "Ordinidelgiorno": "0"
   },
   {
+    "idDeputato": 828,
+    "idGruppo": 221,
+    "DisegnidiLegge": "166"
+  },
+  {
     "idDeputato": 830,
     "idGruppo": 216,
     "DisegnidiLegge": "6",

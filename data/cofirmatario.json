@@ -414,6 +414,11 @@
     "uriDeputato": "http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=827"
   },
   {
+    "idDeputato": 828,
+    "DisegnidiLegge_co": "3",
+    "uriDeputato": "http://www.ars.sicilia.it/deputati/scheda.jsp?idLegis=16&idDeputato=828"
+  },
+  {
     "idDeputato": 830,
     "DisegnidiLegge_co": "24",
     "InterrogazioniParlamentari_co": "11",
