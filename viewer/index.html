@@ -7,7 +7,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="@nelsonmau">
 	<meta name="keywords" content="">
-
+	
 	<meta property="og:image" content="" />
 	<meta property="og:title" content="" />
 	<meta property="og:url" content="" />
@@ -15,120 +15,120 @@
 	<!--link rel="stylesheet/less" href="less/responsive.less" type="text/css" /-->
 	<!--script src="js/less-1.3.3.min.js"></script-->
 	<!--append ‘#!watch’ to the browser URL, then refresh the page. -->
-
+	
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet">
-
+	
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-  	<!--[if lt IE 9]>
-    <script src="js/html5shiv.js"></script>
-    <![endif]-->
-
-    <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="img/apple-touch-icon-57-precomposed.png">
-    <link rel="shortcut icon" href="img/favicon.png">
-
-    <script type="text/javascript" src="js/jquery.min.js"></script>
-    <script type="text/javascript" src="js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="js/scripts.js"></script>
-
-    <link rel="exhibit/data"
-    type="text/csv"
-    href="../data/attivitaDeputatiRegioneSiciliana.csv"/>
+	<!--[if lt IE 9]>
+		<script src="js/html5shiv.js"></script>
+		<![endif]-->
+		
+		<!-- Fav and touch icons -->
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/apple-touch-icon-144-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" href="img/apple-touch-icon-57-precomposed.png">
+		<link rel="shortcut icon" href="img/favicon.png">
+		
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/scripts.js"></script>
+		
+		<link rel="exhibit/data"
+		type="text/csv"
+		href="../data/attivitaDeputatiRegioneSiciliana.csv"/>
 		<!-- ex:converter="googleSpreadsheets" -->
 		<!-- source: google spreadsheet here... -->
-
-
-
-
-    <script src="./js/dist/exhibit-api.js?locale=en"></script>
-
-
-    <script type="text/javascript">
-    var tableStyler = function(table, database) {
-    	$(table).addClass("table table-condensed table-striped");
-    };
-    </script>
-</head>
-
-<body>
-<!-- navbar -->
-<nav class="navbar navbar-default" role="navigation">
-	<div class="navbar-header">
-		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
-			<a class="navbar-brand logo" href="./">
-				<img style="max-width:35px; margin-top: 7px;" src="./img/favicon.png">
-			</a>
-	</div>
-	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-		<ul class="nav navbar-nav">
-			<li class="active">
-				<a href="./">Home</a>
-			</li>
-		</ul>
-	</div>
-</nav>
-
-
-	<div class="container">
-		<div class="row clearfix">
-			<div class="col-md-2 column">
-
+		
+		
+		
+		
+		<script src="./js/dist/exhibit-api.js?locale=en"></script>
+		
+		
+		<script type="text/javascript">
+			var tableStyler = function(table, database) {
+				$(table).addClass("table table-condensed table-striped");
+			};
+		</script>
+	</head>
+	
+	<body>
+		<!-- navbar -->
+		<nav class="navbar navbar-default" role="navigation">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+				<a class="navbar-brand logo" href="./">
+					<img style="max-width:35px; margin-top: 7px;" src="./img/favicon.png">
+				</a>
 			</div>
-
-			<div class="col-md-8 column">
-				<h2 class="text-center">Cos'hanno fatto in 5 anni gli onorevoli siciliani?<br>Cerca quello/a che hai votato e guarda la sua attività</h2>
-				<br>
-				<p>Monitoraggio sulle attività dei deputati dell'Assemblea Regionale Siciliana aggiornato al 17 Settembre 2017.
-					 Progetto realizzato da <a href="http://dirittodiaccesso.eu/" target="_blank">Generazione Y/Diritto di Accesso</a>.
-					 Il dataset e gli altri contenuti di questa pagina, compresi i sorgenti, si intendono rilasciati con licenza Creative Commons Attribuzione 4.0.
-					 Maggiori informazioni sul <a href="http://www.opendatahacklab.org/site/dataset/monitoraggiosicilia2017/" target="_blank">sito del progetto</a>.
-				</p>
-			</div>
-			<div class="col-md-2 column">
-				<!--
-				<ul class="share-buttons">
-					<li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fopendatacompanies.eu&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img src="img/Facebook.png"></a></li>
-					<li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fpetrusino.opendatasicilia.it&text=:%20http%3A%2F%2Fpetrusino.opendatasicilia.it&via=opendatasicilia" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img src="img/Twitter.png"></a></li>
-					<li><a href="https://plus.google.com/share?url=http%3A%2F%2Fopendatacompanies.eu" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;"><img src="img/Google+.png"></a></li>
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li class="active">
+						<a href="./">Home</a>
+					</li>
 				</ul>
-			-->
 			</div>
-
-		</div>
-
-		<div class="row clearfix">
-			<div class="col-md-3 col-sm-12 column">
-				<div ex:role="facet"
-				ex:expression=".collegio"
-				ex:facetLabel="Collegio elettorale"
-				ex:sortMode="value"
-				ex:orders=".collegio">
-			  </div>
-			  <div ex:role="facet"
-				ex:expression=".nomeGruppo"
-        			ex:facetLabel="Gruppo"
-			  	ex:sortMode="value">
-			  </div>
-			</div>
-			<div class="col-md-9 col-sm-12 col-xs-12 column">
-				<strong>Cerca</strong>
-				<div ex:role="facet" ex:facetClass="TextSearch">
+		</nav>
+		
+		
+		<div class="container">
+			<div class="row clearfix">
+				<div class="col-md-2 column">
+					
 				</div>
-				<div ex:role="viewPanel" style="padding: 0in;">
-					<div ex:role="exhibit-view"
-					ex:viewClass="Exhibit.TabularView"
-					ex:label="Table"
-					ex:columns=".nome"
-					ex:columnLabels="Elenco dei deputati"
-					ex:columnFormats="list"
-					ex:sortColumn="0"
-					ex:sortDescending="true"
-					ex:tableStyler="tableStyler">
-					<!-- ETICHETTE COLONNE
+				
+				<div class="col-md-8 column">
+					<h2 class="text-center">Cos'hanno fatto in 5 anni gli onorevoli siciliani?<br>Cerca quello/a che hai votato e guarda la sua attività</h2>
+					<br>
+					<p>Monitoraggio sulle attività dei deputati dell'Assemblea Regionale Siciliana aggiornato al 17 Settembre 2017.
+						Progetto realizzato da <a href="http://dirittodiaccesso.eu/" target="_blank">Generazione Y/Diritto di Accesso</a>.
+						Il dataset e gli altri contenuti di questa pagina, compresi i sorgenti, si intendono rilasciati con licenza Creative Commons Attribuzione 4.0.
+						Maggiori informazioni sul <a href="http://www.opendatahacklab.org/site/dataset/monitoraggiosicilia2017/" target="_blank">sito del progetto</a>.
+					</p>
+				</div>
+				<div class="col-md-2 column">
+					<!--
+						<ul class="share-buttons">
+							<li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fopendatacompanies.eu&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img src="img/Facebook.png"></a></li>
+							<li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fpetrusino.opendatasicilia.it&text=:%20http%3A%2F%2Fpetrusino.opendatasicilia.it&via=opendatasicilia" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img src="img/Twitter.png"></a></li>
+							<li><a href="https://plus.google.com/share?url=http%3A%2F%2Fopendatacompanies.eu" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;"><img src="img/Google+.png"></a></li>
+						</ul>
+					-->
+				</div>
+				
+			</div>
+			
+			<div class="row clearfix">
+				<div class="col-md-3 col-sm-12 column">
+					<div ex:role="facet"
+					ex:expression=".collegio"
+					ex:facetLabel="Collegio elettorale"
+					ex:sortMode="value"
+					ex:orders=".collegio">
+				</div>
+				<div ex:role="facet"
+				ex:expression=".nomeGruppo"
+				ex:facetLabel="Gruppo"
+				ex:sortMode="value">
+			</div>
+		</div>
+		<div class="col-md-9 col-sm-12 col-xs-12 column">
+			<strong>Cerca</strong>
+			<div ex:role="facet" ex:facetClass="TextSearch">
+			</div>
+			<div ex:role="viewPanel" style="padding: 0in;">
+				<div ex:role="exhibit-view"
+				ex:viewClass="Exhibit.TabularView"
+				ex:label="Table"
+				ex:columns=".nome"
+				ex:columnLabels="Elenco dei deputati"
+				ex:columnFormats="list"
+				ex:sortColumn="0"
+				ex:sortDescending="true"
+				ex:tableStyler="tableStyler">
+				<!-- ETICHETTE COLONNE
 					idDeputato
 					idGruppo
 					DisegnidiLegge
@@ -145,12 +145,12 @@
 					* nome
 					* collegio
 					* nomeGruppo
-
+					
 				-->
-					<div ex:role="exhibit-lens">
-						<div class="table-responsive">
-							<table class="table" ex:class-content=".nome">
-								<tr>
+				<div ex:role="exhibit-lens">
+					<div class="table-responsive">
+						<table class="table" ex:class-content=".nome">
+							<tr>
 								<td>
 									<a ex:href-content=".uriDeputato" target="_blank">
 										<img ex:src-content=".URLfoto" class="avatarpoliticante" />
@@ -159,34 +159,35 @@
 									<h5>Circoscrizione: <span ex:content=".collegio" class="petrusino"></span></h5>
 									<h5>Gruppo: <span ex:content=".nomeGruppo" class="petrusino"></span></h5>
 									<hr>
-									Disegni di legge (cofirmatario): <span ex:content=".DisegnidiLegge_co" class="petrusino"></span>
-											<br>Interrogazioni Parlamentari (cofirmatario): <span ex:content=".InterrogazioniParlamentari_co" class="petrusino"></span>
-											<br>Interpellanze (cofirmatario): <span ex:content=".InterpellanzeParlamentari_co" class="petrusino"></span>
-											<br>Mozioni (cofirmatario): <span ex:content=".Mozioni_co" class="petrusino"></span>
-											<br>Ordini del giorno (cofirmatario): <span ex:content=".Ordinidelgiorno_co" class="petrusino"></span>
-											<br>Disegni di legge (primo firmatario): <span ex:content=".DisegnidiLegge" class="petrusino"></span>
-											<br>Interrogazioni Parlamentari (primo firmatario): <span ex:content=".InterrogazioniParlamentari" class="petrusino"></span>
-											<br>Interpellanze Parlamentari (primo firmatario): <span ex:content=".InterpellanzeParlamentari" class="petrusino"></span>
-											<br>Mozioni (primo firmatario): <span ex:content=".Mozioni" class="petrusino"></span>
-											<br>Ordini del giorno (primo firmatario): <span ex:content=".Ordinidelgiorno" class="petrusino"></span>								
+									Disegni di legge (primo firmatario): <span ex:content=".DisegnidiLegge" class="petrusino"></span>
+									<br>Interrogazioni Parlamentari (primo firmatario): <span ex:content=".InterrogazioniParlamentari" class="petrusino"></span>
+									<br>Interpellanze Parlamentari (primo firmatario): <span ex:content=".InterpellanzeParlamentari" class="petrusino"></span>
+									<br>Mozioni (primo firmatario): <span ex:content=".Mozioni" class="petrusino"></span>
+									<br>Ordini del giorno (primo firmatario): <span ex:content=".Ordinidelgiorno" class="petrusino"></span>	
+									<br><br>Disegni di legge (cofirmatario): <span ex:content=".DisegnidiLegge_co" class="petrusino"></span>
+									<br>Interrogazioni Parlamentari (cofirmatario): <span ex:content=".InterrogazioniParlamentari_co" class="petrusino"></span>
+									<br>Interpellanze (cofirmatario): <span ex:content=".InterpellanzeParlamentari_co" class="petrusino"></span>
+									<br>Mozioni (cofirmatario): <span ex:content=".Mozioni_co" class="petrusino"></span>
+									<br>Ordini del giorno (cofirmatario): <span ex:content=".Ordinidelgiorno_co" class="petrusino"></span>
+																
 									<br>
 								</td>
-								</tr>
-							</table>
-						</div>
+							</tr>
+						</table>
 					</div>
 				</div>
 			</div>
 		</div>
-		<hr>
 	</div>
+	<hr>
 </div>
-		<footer>
-			<div class="container">
-				<hr>
-				<p class="text-center">Se vuoi approfondire, <a href="https://groups.google.com/forum/#!topic/opendatasicilia/_ea_10o1xkI" target="_blank">trovi la discussione su opendatasicilia in cui ne abbiamo discusso. ciao! :-)</a>.
-			  </p>
-		</div>
-		</footer>
-		</body>
-		</html>
+</div>
+<footer>
+	<div class="container">
+		<hr>
+		<p class="text-center">Se vuoi approfondire, <a href="https://groups.google.com/forum/#!topic/opendatasicilia/_ea_10o1xkI" target="_blank">trovi la discussione su opendatasicilia in cui ne abbiamo discusso. ciao! :-)</a>.
+		</p>
+	</div>
+</footer>
+</body>
+</html>
