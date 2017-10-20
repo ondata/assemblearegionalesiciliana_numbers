@@ -21,7 +21,7 @@ idDeputato,idGruppo,DisegnidiLegge,InterrogazioniParlamentari,InterpellanzeParla
 755,208,10,29,1,1,0
 757,200,8,23,1,1,0
 758,224,12,56,0,3,1
-760,200,2,71,11,4,28
+760,200,2,72,11,4,28
 761,206,15,18,4,8,18
 764,196,7,4,1,3,12
 767,196,19,10,0,1,2
@@ -45,7 +45,7 @@ idDeputato,idGruppo,DisegnidiLegge,InterrogazioniParlamentari,InterpellanzeParla
 825,196,9,44,3,6,6
 826,201,2,4,1,0,8
 827,213,7,25,0,12,0
-830,216,6,6,2,4,9
+830,216,6,7,2,4,9
 831,196,6,8,0,4,2
 835,197,9,76,19,12,2
 836,222,18,150,1,11,8
@@ -71,7 +71,7 @@ idDeputato,idGruppo,DisegnidiLegge,InterrogazioniParlamentari,InterpellanzeParla
 858,197,10,60,6,5,1
 859,224,0,2,0,0,1
 860,196,2,3,0,2,0
-861,214,2,14,0,0,2
+861,214,2,15,0,0,2
 862,197,21,65,3,12,1
 864,223,15,5,0,1,6
 865,221,3,35,0,2,2

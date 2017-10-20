@@ -39,14 +39,12 @@ do
 done
 
 # unisco i vari JSON di output creati
-jq -s '.' PF*.json > primofirmatario.json
-jq -s '.' CF*.json > cofirmatario.json
+jq -s add PF*.json > primofirmatario.json
+jq -s add CF*.json > cofirmatario.json
 
 # converto in CSV gli output di sopra
 in2csv primofirmatario.json > primofirmatario.csv
 in2csv cofirmatario.json > cofirmatario.csv
-sed -i 's/0\///g' primofirmatario.csv
-sed -i 's/0\///g' cofirmatario.csv
 
 # aggiungo intestazione a anagrafica deputati
 sed -i '1s/^/idGruppo,nome,collegio,idDeputato\n/' ./tmp_anagraficaDeputati.csv
@@ -86,3 +84,4 @@ rm ./CF*.json
 mkdir -p ./data
 mv *.json ./data/
 mv *.csv ./data/
+
